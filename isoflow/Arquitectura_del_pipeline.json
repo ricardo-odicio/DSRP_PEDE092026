@@ -1,0 +1,269 @@
+{
+  "version": "3.1.0",
+  "project": {
+    "title": "Grupo 15 - Arquitectura Medallón",
+    "description": "Pipeline ELT con arquitectura medallón para análisis de reclamos y satisfacción del cliente."
+  },
+  "icons": [
+    {
+      "id": "document",
+      "name": "Document",
+      "url": "https://isoflow-public.s3.eu-west-2.amazonaws.com/icons/document.svg",
+      "collection": "Isometric",
+      "isIsometric": true
+    },
+    {
+      "id": "storage",
+      "name": "Storage",
+      "url": "https://isoflow-public.s3.eu-west-2.amazonaws.com/icons/storage.svg",
+      "collection": "Isometric",
+      "isIsometric": true
+    },
+    {
+      "id": "function-module",
+      "name": "Function",
+      "url": "https://isoflow-public.s3.eu-west-2.amazonaws.com/icons/function-module.svg",
+      "collection": "Isometric",
+      "isIsometric": true
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud",
+      "url": "https://isoflow-public.s3.eu-west-2.amazonaws.com/icons/cloud.svg",
+      "collection": "Isometric",
+      "isIsometric": true
+    }
+  ],
+  "c4": {
+    "blocks": [],
+    "relationships": []
+  },
+  "physicalTopology": {
+    "components": [
+      {
+        "id": "fuente_csv",
+        "name": "Fuente (CSV)",
+        "description": "<p>Archivo fuente con datos de reclamos de clientes.</p>",
+        "icon": "document",
+        "iconSize": 1.2
+      },
+      {
+        "id": "raw",
+        "name": "Raw",
+        "description": "<p>Almacenamiento inicial del archivo sin transformación.</p>",
+        "icon": "storage",
+        "iconSize": 1.2
+      },
+      {
+        "id": "bronze",
+        "name": "Bronze",
+        "description": "<p>Datos estandarizados en formato Delta.</p>",
+        "icon": "storage",
+        "iconSize": 1.2
+      },
+      {
+        "id": "silver",
+        "name": "Silver",
+        "description": "<p>Datos limpios, tipados y enriquecidos.</p>",
+        "icon": "function-module",
+        "iconSize": 1.2
+      },
+      {
+        "id": "gold",
+        "name": "Gold (Modelo estrella)",
+        "description": "<p>Capa analítica final con tabla de hechos y dimensiones.</p>",
+        "icon": "storage",
+        "iconSize": 1.2
+      },
+      {
+        "id": "powerbi",
+        "name": "Power BI",
+        "description": "<p>Visualización y análisis de indicadores de negocio.</p>",
+        "icon": "cloud",
+        "iconSize": 1.2
+      }
+    ],
+    "views": [
+      {
+        "id": "overview",
+        "name": "Overview",
+        "items": [
+          {
+            "id": "vi_fuente_csv",
+            "component": "fuente_csv",
+            "tile": {
+              "x": 0,
+              "y": -10
+            }
+          },
+          {
+            "id": "vi_raw",
+            "component": "raw",
+            "tile": {
+              "x": 0,
+              "y": -6
+            }
+          },
+          {
+            "id": "vi_bronze",
+            "component": "bronze",
+            "tile": {
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "vi_silver",
+            "component": "silver",
+            "tile": {
+              "x": 0,
+              "y": 2
+            }
+          },
+          {
+            "id": "vi_gold",
+            "component": "gold",
+            "tile": {
+              "x": 0,
+              "y": 6
+            }
+          },
+          {
+            "id": "vi_powerbi",
+            "component": "powerbi",
+            "tile": {
+              "x": 0,
+              "y": 10
+            }
+          }
+        ],
+        "rectangles": [],
+        "connectors": [
+          {
+            "id": "c1",
+            "color": "color1",
+            "width": 10,
+            "style": "SOLID",
+            "anchors": [
+              {
+                "id": "c1a1",
+                "ref": {
+                  "item": "vi_fuente_csv"
+                }
+              },
+              {
+                "id": "c1a2",
+                "ref": {
+                  "item": "vi_raw"
+                }
+              }
+            ]
+          },
+          {
+            "id": "c2",
+            "color": "color1",
+            "width": 10,
+            "style": "SOLID",
+            "anchors": [
+              {
+                "id": "c2a1",
+                "ref": {
+                  "item": "vi_raw"
+                }
+              },
+              {
+                "id": "c2a2",
+                "ref": {
+                  "item": "vi_bronze"
+                }
+              }
+            ]
+          },
+          {
+            "id": "c3",
+            "color": "color1",
+            "width": 10,
+            "style": "SOLID",
+            "anchors": [
+              {
+                "id": "c3a1",
+                "ref": {
+                  "item": "vi_bronze"
+                }
+              },
+              {
+                "id": "c3a2",
+                "ref": {
+                  "item": "vi_silver"
+                }
+              }
+            ]
+          },
+          {
+            "id": "c4",
+            "color": "color1",
+            "width": 10,
+            "style": "SOLID",
+            "anchors": [
+              {
+                "id": "c4a1",
+                "ref": {
+                  "item": "vi_silver"
+                }
+              },
+              {
+                "id": "c4a2",
+                "ref": {
+                  "item": "vi_gold"
+                }
+              }
+            ]
+          },
+          {
+            "id": "c5",
+            "color": "color1",
+            "width": 10,
+            "style": "SOLID",
+            "anchors": [
+              {
+                "id": "c5a1",
+                "ref": {
+                  "item": "vi_gold"
+                }
+              },
+              {
+                "id": "c5a2",
+                "ref": {
+                  "item": "vi_powerbi"
+                }
+              }
+            ]
+          }
+        ],
+        "textBoxes": [
+          {
+            "id": "t1",
+            "tile": {
+              "x": 2,
+              "y": 6
+            },
+            "content": "Modelo estrella",
+            "fontSize": 0.6,
+            "orientation": "X"
+          }
+        ]
+      }
+    ],
+    "colors": [
+      {
+        "id": "color1",
+        "value": "#7ccf8a"
+      }
+    ],
+    "flows": []
+  },
+  "metadata": {
+    "items": [],
+    "registry": []
+  }
+}

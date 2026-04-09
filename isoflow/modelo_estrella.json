@@ -1,0 +1,270 @@
+{
+  "version": "3.1.0",
+  "project": {
+    "title": "Grupo 15 - Modelo Estrella",
+    "description": "Modelo estrella de la capa Gold para el análisis de reclamos."
+  },
+  "icons": [
+    {
+      "id": "storage",
+      "name": "Storage",
+      "url": "https://isoflow-public.s3.eu-west-2.amazonaws.com/icons/storage.svg",
+      "collection": "Isometric",
+      "isIsometric": true
+    }
+  ],
+  "c4": {
+    "blocks": [],
+    "relationships": []
+  },
+  "physicalTopology": {
+    "components": [
+      {
+        "id": "fact_reclamos",
+        "name": "fact_reclamos",
+        "description": "<p>Tabla de hechos con métricas de reclamos: cantidad, tiempo de resolución, monto de reembolso y NPS.</p>",
+        "icon": "storage",
+        "iconSize": 1.3
+      },
+      {
+        "id": "dim_fecha",
+        "name": "dim_fecha",
+        "description": "<p>Dimensión temporal: fecha, día, mes, trimestre y año.</p>",
+        "icon": "storage",
+        "iconSize": 1.1
+      },
+      {
+        "id": "dim_cliente",
+        "name": "dim_cliente",
+        "description": "<p>Dimensión de clientes.</p>",
+        "icon": "storage",
+        "iconSize": 1.1
+      },
+      {
+        "id": "dim_canal",
+        "name": "dim_canal",
+        "description": "<p>Dimensión de canal de atención.</p>",
+        "icon": "storage",
+        "iconSize": 1.1
+      },
+      {
+        "id": "dim_producto",
+        "name": "dim_producto",
+        "description": "<p>Dimensión de producto asociado al reclamo.</p>",
+        "icon": "storage",
+        "iconSize": 1.1
+      }
+    ],
+    "views": [
+      {
+        "id": "overview",
+        "name": "Overview",
+        "items": [
+          {
+            "id": "vi_fact_reclamos",
+            "component": "fact_reclamos",
+            "tile": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          {
+            "id": "vi_dim_fecha",
+            "component": "dim_fecha",
+            "tile": {
+              "x": 0,
+              "y": -6
+            }
+          },
+          {
+            "id": "vi_dim_cliente",
+            "component": "dim_cliente",
+            "tile": {
+              "x": -6,
+              "y": 0
+            }
+          },
+          {
+            "id": "vi_dim_canal",
+            "component": "dim_canal",
+            "tile": {
+              "x": 6,
+              "y": 0
+            }
+          },
+          {
+            "id": "vi_dim_producto",
+            "component": "dim_producto",
+            "tile": {
+              "x": 0,
+              "y": 6
+            }
+          }
+        ],
+        "rectangles": [
+          {
+            "id": "r1",
+            "color": "color2",
+            "from": {
+              "x": -2,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": -1
+            }
+          }
+        ],
+        "connectors": [
+          {
+            "id": "c1",
+            "color": "color1",
+            "width": 10,
+            "style": "SOLID",
+            "anchors": [
+              {
+                "id": "c1a1",
+                "ref": {
+                  "item": "vi_dim_fecha"
+                }
+              },
+              {
+                "id": "c1a2",
+                "ref": {
+                  "item": "vi_fact_reclamos"
+                }
+              }
+            ]
+          },
+          {
+            "id": "c2",
+            "color": "color1",
+            "width": 10,
+            "style": "SOLID",
+            "anchors": [
+              {
+                "id": "c2a1",
+                "ref": {
+                  "item": "vi_dim_cliente"
+                }
+              },
+              {
+                "id": "c2a2",
+                "ref": {
+                  "item": "vi_fact_reclamos"
+                }
+              }
+            ]
+          },
+          {
+            "id": "c3",
+            "color": "color1",
+            "width": 10,
+            "style": "SOLID",
+            "anchors": [
+              {
+                "id": "c3a1",
+                "ref": {
+                  "item": "vi_dim_canal"
+                }
+              },
+              {
+                "id": "c3a2",
+                "ref": {
+                  "item": "vi_fact_reclamos"
+                }
+              }
+            ]
+          },
+          {
+            "id": "c4",
+            "color": "color1",
+            "width": 10,
+            "style": "SOLID",
+            "anchors": [
+              {
+                "id": "c4a1",
+                "ref": {
+                  "item": "vi_dim_producto"
+                }
+              },
+              {
+                "id": "c4a2",
+                "ref": {
+                  "item": "vi_fact_reclamos"
+                }
+              }
+            ]
+          }
+        ],
+        "textBoxes": [
+          {
+            "id": "t1",
+            "tile": {
+              "x": -2,
+              "y": -8
+            },
+            "content": "Dimensión",
+            "fontSize": 0.6,
+            "orientation": "X"
+          },
+          {
+            "id": "t2",
+            "tile": {
+              "x": -8,
+              "y": 0
+            },
+            "content": "Dimensión",
+            "fontSize": 0.6,
+            "orientation": "X"
+          },
+          {
+            "id": "t3",
+            "tile": {
+              "x": 7,
+              "y": 0
+            },
+            "content": "Dimensión",
+            "fontSize": 0.6,
+            "orientation": "X"
+          },
+          {
+            "id": "t4",
+            "tile": {
+              "x": -2,
+              "y": 8
+            },
+            "content": "Dimensión",
+            "fontSize": 0.6,
+            "orientation": "X"
+          },
+          {
+            "id": "t5",
+            "tile": {
+              "x": -1,
+              "y": 2
+            },
+            "content": "Hechos",
+            "fontSize": 0.7,
+            "orientation": "X"
+          }
+        ]
+      }
+    ],
+    "colors": [
+      {
+        "id": "color1",
+        "value": "#8db6ff"
+      },
+      {
+        "id": "color2",
+        "value": "#f6d48c"
+      }
+    ],
+    "flows": []
+  },
+  "metadata": {
+    "items": [],
+    "registry": []
+  }
+}
