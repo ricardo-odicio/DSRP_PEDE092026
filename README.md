@@ -45,18 +45,7 @@ La fuente se registró como **tabla en Databricks**:
 
 ## 🏗️ Arquitectura
 
-Fuente (CSV)
-↓
-Raw
-↓
-Bronze
-↓
-Silver
-↓
-Gold (Modelo estrella)
-↓
-Power BI
-
+<img width="1293" height="844" alt="image" src="https://github.com/user-attachments/assets/72d93047-1a87-401f-922d-3ecb23eb183b" />
 
 
 ---
@@ -161,27 +150,27 @@ NPS Score = ([% Promotores] - [% Detractores])
 Tendencia Reclamos = -- (regresión lineal aplicada sobre fechas)
 ```
 
+
+
 ❓ Preguntas de negocio
-¿Qué canal genera más reclamos?
-¿Qué productos presentan más incidencias?
-¿Cómo evoluciona el NPS?
-¿Existe tendencia creciente o decreciente en reclamos?
-¿Cuál es el impacto económico de los reembolsos?
+- ¿Qué canal genera más reclamos?
+- ¿Qué productos presentan más incidencias?
+- ¿Cómo evoluciona el NPS?
+- ¿Existe tendencia creciente o decreciente en reclamos?
+- ¿Cuál es el impacto económico de los reembolsos?
+- 
 ⚙️ Tecnologías
-Databricks
-PySpark
-Delta Lake
-SQL
-Power BI
-GitHub
+- Databricks
+- PySpark
+- Delta Lake
+- SQL
+- Power BI
+- GitHub
+
 📁 Estructura del repositorio
 
-Grupo_15/
-├── README.md
-├── data/
-├── notebooks/
-├── docs/
-└── powerbi/
+<img width="1149" height="901" alt="image" src="https://github.com/user-attachments/assets/1ec0b510-a383-4b32-851a-e3ea0cc06ea3" />
+
 
 
 📌 Conclusiones
