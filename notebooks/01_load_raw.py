@@ -14,3 +14,4 @@ df_raw = df_raw.withColumn("fecha_carga", F.current_timestamp())
 df_raw.write.mode("overwrite").format("delta").saveAsTable("raw_reclamos")
 
 display(df_raw)
+
