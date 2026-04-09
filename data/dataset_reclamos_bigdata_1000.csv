@@ -1,0 +1,1001 @@
+id_reclamo,fecha_reclamo,cliente_id,canal,producto,motivo,estado,tiempo_resolucion_horas,monto_reembolso,nps
+1,2026-02-17,2949,Call Center,Telefonía,Producto incorrecto,En proceso,106,92.03,0
+2,2026-01-14,1411,Web,Móvil,Cancelación de servicio,Pendiente,51,108.2,0
+3,2026-01-14,4554,Oficina,Internet,Problema técnico,Pendiente,98,41.08,5
+4,2026-02-21,1387,Web,Telefonía,Entrega tardía,Pendiente,27,129.94,10
+5,2026-01-02,1950,WhatsApp,Paquete Triple,Cancelación de servicio,Pendiente,79,13.84,5
+6,2026-02-04,1246,Oficina,Móvil,Problema técnico,Pendiente,77,125.85,7
+7,2026-01-13,4922,App,Móvil,Entrega tardía,En proceso,17,24.67,10
+8,2026-01-25,1707,App,Telefonía,Entrega tardía,Resuelto,7,106.7,4
+9,2026-03-24,4414,Web,Paquete Triple,Entrega tardía,Resuelto,81,16.11,1
+10,2026-02-03,2827,WhatsApp,TV,Entrega tardía,Resuelto,108,38.96,8
+11,2026-04-13,1507,Web,Paquete Triple,Producto defectuoso,Pendiente,81,189.33,1
+12,2026-03-16,2132,WhatsApp,Paquete Triple,Problema técnico,Pendiente,7,135.9,9
+13,2026-03-18,4593,WhatsApp,Telefonía,Entrega tardía,En proceso,89,124.7,9
+14,2026-04-17,1067,Oficina,Internet,Producto defectuoso,En proceso,69,9.23,2
+15,2026-04-29,2720,Web,Internet,Cancelación de servicio,Resuelto,116,167.51,7
+16,2026-01-23,4812,Web,Telefonía,Problema técnico,Pendiente,18,169.04,2
+17,2026-04-16,4572,App,Móvil,Error de facturación,En proceso,83,102.8,5
+18,2026-01-05,1639,Web,Móvil,Producto defectuoso,En proceso,95,9.59,9
+19,2026-01-16,1568,Web,Internet,Problema técnico,En proceso,114,4.95,0
+20,2026-02-05,4035,Web,Telefonía,Entrega tardía,En proceso,13,48.15,2
+21,2026-04-12,2721,WhatsApp,Telefonía,Error de facturación,Resuelto,12,118.72,9
+22,2026-02-02,3005,Oficina,Internet,Problema técnico,Pendiente,12,20.96,4
+23,2026-04-03,2208,Call Center,TV,Cancelación de servicio,Pendiente,41,128.97,5
+24,2026-02-28,3182,Call Center,Internet,Producto defectuoso,Resuelto,92,39.06,9
+25,2026-03-27,1937,App,Telefonía,Problema técnico,Resuelto,6,4.46,10
+26,2026-01-28,1262,Call Center,Paquete Triple,Producto defectuoso,Pendiente,72,144.59,8
+27,2026-01-27,3699,Call Center,Internet,Problema técnico,En proceso,50,130.13,0
+28,2026-01-11,4282,Oficina,Internet,Producto defectuoso,Pendiente,108,152.92,3
+29,2026-01-13,3313,WhatsApp,TV,Problema técnico,Resuelto,51,160.46,0
+30,2026-04-03,4862,Call Center,Internet,Producto incorrecto,En proceso,29,56.72,2
+31,2026-04-02,4894,Oficina,Paquete Triple,Cancelación de servicio,En proceso,83,173.55,5
+32,2026-03-20,1037,Web,Internet,Cancelación de servicio,Resuelto,27,140.29,5
+33,2026-01-23,1935,Oficina,Telefonía,Producto incorrecto,Pendiente,67,70.23,2
+34,2026-04-13,1524,App,Paquete Triple,Producto incorrecto,Resuelto,19,120.25,0
+35,2026-01-09,2475,WhatsApp,Telefonía,Entrega tardía,Pendiente,2,106.14,1
+36,2026-02-23,2016,WhatsApp,Telefonía,Problema técnico,En proceso,115,65.69,7
+37,2026-01-12,4476,Call Center,Telefonía,Cancelación de servicio,Resuelto,35,142.7,7
+38,2026-03-08,1006,Oficina,Móvil,Problema técnico,Resuelto,1,187.02,7
+39,2026-01-12,1535,WhatsApp,Paquete Triple,Problema técnico,Pendiente,50,160.16,2
+40,2026-04-09,2466,WhatsApp,Telefonía,Error de facturación,En proceso,41,124.66,6
+41,2026-03-17,1228,App,Telefonía,Problema técnico,Resuelto,93,61.88,1
+42,2026-01-29,3045,Oficina,Paquete Triple,Entrega tardía,En proceso,59,42.35,0
+43,2026-02-14,4369,WhatsApp,Telefonía,Cancelación de servicio,En proceso,114,94.73,3
+44,2026-04-15,4366,WhatsApp,TV,Problema técnico,Pendiente,59,27.14,10
+45,2026-03-12,3413,Web,Telefonía,Problema técnico,Resuelto,58,149.4,4
+46,2026-02-05,2802,WhatsApp,Paquete Triple,Problema técnico,En proceso,75,138.06,0
+47,2026-03-15,2852,Oficina,Móvil,Producto incorrecto,Resuelto,56,87.97,5
+48,2026-01-27,2825,Call Center,TV,Producto defectuoso,Pendiente,26,58.62,6
+49,2026-02-13,3174,Oficina,TV,Entrega tardía,Resuelto,29,74.8,6
+50,2026-03-01,4035,Web,Internet,Cancelación de servicio,Resuelto,58,40.81,10
+51,2026-03-02,4839,Web,Paquete Triple,Entrega tardía,Resuelto,46,123.1,5
+52,2026-02-03,1995,WhatsApp,Móvil,Cancelación de servicio,Pendiente,91,174.11,9
+53,2026-03-02,3615,WhatsApp,TV,Entrega tardía,Pendiente,69,145.6,7
+54,2026-04-28,1716,Call Center,Internet,Error de facturación,En proceso,40,105.79,3
+55,2026-03-23,2675,WhatsApp,Paquete Triple,Problema técnico,Pendiente,16,186.19,3
+56,2026-02-11,3531,Oficina,Telefonía,Producto defectuoso,En proceso,55,162.08,7
+57,2026-01-08,3215,App,TV,Entrega tardía,Pendiente,47,61.86,8
+58,2026-01-24,4048,WhatsApp,Telefonía,Producto defectuoso,Pendiente,120,179.09,10
+59,2026-01-05,4881,WhatsApp,Paquete Triple,Error de facturación,Resuelto,80,82.11,9
+60,2026-04-22,4444,WhatsApp,Paquete Triple,Producto incorrecto,En proceso,32,153.85,4
+61,2026-03-17,1811,Web,Móvil,Producto defectuoso,Resuelto,97,107.27,8
+62,2026-04-26,1068,App,Internet,Producto incorrecto,En proceso,90,189.13,9
+63,2026-01-16,3889,App,Paquete Triple,Producto defectuoso,En proceso,76,10.68,9
+64,2026-03-01,3562,App,Internet,Cancelación de servicio,Resuelto,31,156.98,0
+65,2026-02-25,2371,WhatsApp,TV,Entrega tardía,Pendiente,68,96.9,4
+66,2026-01-27,2790,Web,TV,Producto incorrecto,Pendiente,109,190.77,5
+67,2026-02-07,3460,WhatsApp,Paquete Triple,Error de facturación,Resuelto,42,69.17,3
+68,2026-05-01,4277,Web,Telefonía,Producto defectuoso,En proceso,38,190.09,3
+69,2026-02-03,4604,Web,Telefonía,Producto incorrecto,Pendiente,60,68.18,5
+70,2026-02-26,2337,Call Center,Móvil,Producto defectuoso,Resuelto,6,149.71,6
+71,2026-01-26,1987,App,Móvil,Entrega tardía,Resuelto,24,56.54,2
+72,2026-02-17,1275,WhatsApp,TV,Producto incorrecto,Resuelto,83,129.76,4
+73,2026-02-22,1088,Web,Paquete Triple,Cancelación de servicio,Resuelto,40,97.18,8
+74,2026-04-28,1346,Oficina,TV,Problema técnico,Pendiente,102,131.31,0
+75,2026-01-21,3801,App,Telefonía,Entrega tardía,En proceso,34,72.02,7
+76,2026-03-20,1602,Web,Móvil,Error de facturación,En proceso,57,54.65,1
+77,2026-04-26,2002,App,Móvil,Producto incorrecto,Resuelto,9,29.6,8
+78,2026-04-13,3604,WhatsApp,Telefonía,Cancelación de servicio,En proceso,63,87.56,5
+79,2026-01-11,3156,WhatsApp,Paquete Triple,Cancelación de servicio,En proceso,37,119.87,10
+80,2026-02-10,3455,App,Móvil,Problema técnico,Pendiente,113,131.49,9
+81,2026-04-26,2843,Web,Móvil,Error de facturación,En proceso,31,71.49,9
+82,2026-04-09,4752,Web,Telefonía,Error de facturación,En proceso,84,58.99,0
+83,2026-04-23,3653,WhatsApp,Móvil,Cancelación de servicio,Resuelto,79,124.82,8
+84,2026-04-19,3543,WhatsApp,Telefonía,Entrega tardía,Resuelto,61,169.39,7
+85,2026-02-23,1431,Call Center,TV,Error de facturación,En proceso,21,172.3,4
+86,2026-04-09,2965,WhatsApp,TV,Producto defectuoso,Pendiente,60,38.55,10
+87,2026-03-17,4066,Web,TV,Producto incorrecto,Resuelto,82,154.13,0
+88,2026-04-07,1387,Oficina,Móvil,Error de facturación,En proceso,71,170.17,7
+89,2026-04-13,3886,App,Paquete Triple,Error de facturación,Pendiente,101,58.88,9
+90,2026-01-21,4731,App,Paquete Triple,Error de facturación,Pendiente,24,102.49,7
+91,2026-03-21,2006,App,TV,Cancelación de servicio,Pendiente,94,84.57,2
+92,2026-02-09,3455,Oficina,Móvil,Producto incorrecto,En proceso,52,34.75,5
+93,2026-02-28,1350,App,Paquete Triple,Error de facturación,Pendiente,61,122.7,8
+94,2026-02-26,2719,WhatsApp,Paquete Triple,Producto incorrecto,En proceso,99,72.88,5
+95,2026-03-07,4663,Call Center,TV,Cancelación de servicio,Pendiente,73,25.47,7
+96,2026-03-21,1083,App,Paquete Triple,Producto defectuoso,Resuelto,101,164.95,3
+97,2026-04-03,1408,App,Móvil,Cancelación de servicio,En proceso,41,181.12,0
+98,2026-04-05,1101,WhatsApp,Móvil,Problema técnico,En proceso,60,195.88,0
+99,2026-04-21,2073,Call Center,TV,Entrega tardía,Pendiente,110,176.91,3
+100,2026-03-15,1655,App,Móvil,Cancelación de servicio,En proceso,34,129.51,7
+101,2026-04-04,3250,App,TV,Problema técnico,En proceso,23,196.92,6
+102,2026-04-01,1178,Web,Móvil,Producto defectuoso,En proceso,50,27.65,9
+103,2026-02-24,4801,Call Center,TV,Producto defectuoso,Pendiente,77,98.21,6
+104,2026-02-01,4818,Call Center,Internet,Problema técnico,En proceso,80,174.14,9
+105,2026-02-07,1295,Oficina,Móvil,Entrega tardía,Pendiente,49,76.14,10
+106,2026-03-08,3765,Call Center,Móvil,Cancelación de servicio,Pendiente,70,62.83,10
+107,2026-03-19,4111,Web,Telefonía,Error de facturación,En proceso,103,57.55,3
+108,2026-04-12,4388,Call Center,Móvil,Problema técnico,Resuelto,37,4.5,2
+109,2026-01-16,3682,WhatsApp,Internet,Entrega tardía,En proceso,112,23.98,9
+110,2026-04-19,4172,Oficina,TV,Entrega tardía,Pendiente,68,162.23,7
+111,2026-01-19,2843,App,Paquete Triple,Cancelación de servicio,En proceso,60,37.6,6
+112,2026-01-26,4291,App,Paquete Triple,Cancelación de servicio,Pendiente,102,36.68,1
+113,2026-04-02,4181,App,Paquete Triple,Error de facturación,Pendiente,55,42.96,9
+114,2026-03-12,4400,App,Telefonía,Producto incorrecto,Pendiente,75,11.37,7
+115,2026-04-05,2138,WhatsApp,Móvil,Problema técnico,Resuelto,7,170.43,4
+116,2026-04-01,2937,App,Telefonía,Error de facturación,Pendiente,19,60.88,1
+117,2026-02-25,2938,Web,Móvil,Problema técnico,Resuelto,116,38.19,7
+118,2026-01-21,4646,Web,TV,Cancelación de servicio,En proceso,94,29.64,3
+119,2026-04-22,1251,WhatsApp,TV,Problema técnico,Pendiente,80,175.52,8
+120,2026-03-19,3212,App,Internet,Problema técnico,Resuelto,34,91.42,9
+121,2026-02-13,3585,App,Telefonía,Producto incorrecto,En proceso,27,29.68,5
+122,2026-02-18,2112,App,Telefonía,Problema técnico,Pendiente,45,157.58,7
+123,2026-03-11,2266,Call Center,Telefonía,Producto defectuoso,Resuelto,58,167.51,2
+124,2026-02-09,3162,Oficina,Paquete Triple,Problema técnico,Resuelto,51,12.89,1
+125,2026-01-06,1454,Web,Móvil,Entrega tardía,Resuelto,14,174.36,1
+126,2026-05-01,4794,Call Center,Internet,Producto incorrecto,Resuelto,104,160.08,6
+127,2026-01-19,4501,App,Telefonía,Entrega tardía,Resuelto,89,166.73,3
+128,2026-03-24,3930,Call Center,Telefonía,Producto defectuoso,Pendiente,91,82.13,7
+129,2026-01-26,4406,Oficina,Internet,Producto incorrecto,Pendiente,24,54.49,9
+130,2026-03-21,2123,App,Móvil,Problema técnico,Resuelto,20,163.31,5
+131,2026-01-12,4472,Call Center,Móvil,Producto incorrecto,Pendiente,17,130.15,7
+132,2026-02-16,1906,Call Center,Paquete Triple,Cancelación de servicio,En proceso,100,145.28,8
+133,2026-03-12,4647,Web,Móvil,Problema técnico,Resuelto,4,63.22,5
+134,2026-01-08,4184,Call Center,TV,Cancelación de servicio,Resuelto,106,40.32,9
+135,2026-03-17,4424,Oficina,TV,Entrega tardía,En proceso,49,144.29,10
+136,2026-04-26,3323,App,Internet,Entrega tardía,En proceso,4,98.15,10
+137,2026-04-18,1665,Oficina,Telefonía,Cancelación de servicio,En proceso,11,23.64,2
+138,2026-04-28,1685,Web,Internet,Producto incorrecto,En proceso,112,141.55,1
+139,2026-04-13,2318,WhatsApp,TV,Producto incorrecto,En proceso,113,169.36,10
+140,2026-01-31,4017,WhatsApp,Telefonía,Producto incorrecto,En proceso,79,75.06,2
+141,2026-01-16,3401,App,Paquete Triple,Producto defectuoso,Pendiente,60,170.25,7
+142,2026-01-17,3591,Web,Móvil,Cancelación de servicio,Resuelto,97,137.22,5
+143,2026-02-19,2763,Call Center,Internet,Producto defectuoso,Pendiente,118,95.83,4
+144,2026-02-02,4470,Web,Paquete Triple,Producto defectuoso,En proceso,64,59.03,5
+145,2026-03-16,2082,Web,TV,Entrega tardía,En proceso,100,86.95,4
+146,2026-01-19,2937,Call Center,Paquete Triple,Cancelación de servicio,Resuelto,70,159.16,2
+147,2026-04-23,4944,Call Center,Telefonía,Error de facturación,Pendiente,112,94.49,6
+148,2026-04-01,2929,Call Center,TV,Cancelación de servicio,Pendiente,91,166.81,6
+149,2026-02-06,1455,WhatsApp,Paquete Triple,Entrega tardía,En proceso,101,93.79,6
+150,2026-03-25,4244,Web,TV,Problema técnico,Pendiente,115,63.9,10
+151,2026-02-11,2546,WhatsApp,Móvil,Producto defectuoso,Resuelto,75,81.15,10
+152,2026-02-07,4140,Call Center,Paquete Triple,Error de facturación,En proceso,118,99.83,8
+153,2026-02-21,1066,Call Center,Paquete Triple,Producto defectuoso,Resuelto,64,26.87,6
+154,2026-04-15,3453,Oficina,Internet,Producto incorrecto,Pendiente,28,139.42,1
+155,2026-03-29,3584,WhatsApp,Telefonía,Cancelación de servicio,Resuelto,61,119.79,6
+156,2026-01-01,3204,Call Center,Móvil,Producto defectuoso,En proceso,83,130.82,0
+157,2026-04-09,2275,App,Móvil,Problema técnico,Resuelto,88,1.19,7
+158,2026-04-01,4659,App,Móvil,Producto incorrecto,Resuelto,25,138.83,8
+159,2026-03-16,3468,App,Internet,Producto incorrecto,Pendiente,31,163.27,4
+160,2026-03-02,1741,App,Paquete Triple,Error de facturación,En proceso,10,138.86,10
+161,2026-04-21,3626,Oficina,Móvil,Producto defectuoso,Resuelto,46,74.58,8
+162,2026-01-10,1957,WhatsApp,Internet,Producto defectuoso,En proceso,90,167.42,3
+163,2026-03-27,4086,Web,Telefonía,Cancelación de servicio,Resuelto,109,102.86,9
+164,2026-03-31,2242,App,Telefonía,Producto defectuoso,Resuelto,86,81.78,9
+165,2026-04-10,3336,Web,Paquete Triple,Problema técnico,Pendiente,81,178.09,4
+166,2026-02-08,1132,Call Center,TV,Producto defectuoso,En proceso,54,55.8,4
+167,2026-02-18,4630,Call Center,Paquete Triple,Producto defectuoso,Pendiente,67,196.31,5
+168,2026-02-13,1576,Web,Móvil,Producto defectuoso,En proceso,44,44.83,7
+169,2026-03-27,1160,WhatsApp,Móvil,Producto incorrecto,En proceso,10,30.4,7
+170,2026-02-14,2940,Web,Internet,Entrega tardía,Pendiente,35,58.27,8
+171,2026-01-14,3992,Call Center,Móvil,Producto defectuoso,En proceso,62,102.43,4
+172,2026-04-01,2022,WhatsApp,TV,Problema técnico,Pendiente,118,91.46,0
+173,2026-03-28,3479,WhatsApp,TV,Cancelación de servicio,Resuelto,42,190.54,1
+174,2026-04-09,3275,Web,Móvil,Error de facturación,Pendiente,120,0.55,5
+175,2026-03-24,1876,App,Telefonía,Producto incorrecto,Resuelto,91,58.61,9
+176,2026-02-18,3909,App,TV,Producto incorrecto,Resuelto,71,116.4,10
+177,2026-02-22,1010,Call Center,TV,Error de facturación,Resuelto,110,87.26,7
+178,2026-02-12,1527,App,TV,Producto defectuoso,Resuelto,55,82.64,7
+179,2026-02-23,2125,Web,Telefonía,Entrega tardía,Resuelto,48,176.65,3
+180,2026-04-24,4469,Web,Internet,Problema técnico,En proceso,83,96.6,1
+181,2026-02-09,2183,Oficina,Móvil,Producto defectuoso,Resuelto,57,98.23,1
+182,2026-01-05,3855,Oficina,Paquete Triple,Producto defectuoso,En proceso,72,110.84,2
+183,2026-01-17,2632,Oficina,Internet,Producto defectuoso,En proceso,35,115.19,6
+184,2026-01-25,4187,Oficina,Internet,Cancelación de servicio,En proceso,28,80.27,1
+185,2026-04-25,3084,Call Center,Paquete Triple,Error de facturación,En proceso,75,154.48,8
+186,2026-05-01,4845,WhatsApp,Internet,Producto defectuoso,Resuelto,58,13.1,1
+187,2026-02-21,4291,Call Center,Internet,Producto incorrecto,Resuelto,16,47.84,0
+188,2026-02-27,4967,App,Paquete Triple,Producto incorrecto,Pendiente,39,197.01,5
+189,2026-01-20,3005,Call Center,Paquete Triple,Producto incorrecto,Resuelto,87,44.2,0
+190,2026-02-15,4976,Oficina,Telefonía,Problema técnico,En proceso,54,23.58,9
+191,2026-02-08,2852,Oficina,Telefonía,Producto incorrecto,Resuelto,70,181.51,4
+192,2026-03-23,1129,App,Paquete Triple,Entrega tardía,Pendiente,13,138.37,1
+193,2026-01-16,4715,Web,Internet,Entrega tardía,En proceso,45,13.79,8
+194,2026-04-02,1529,Call Center,Móvil,Producto incorrecto,En proceso,34,54.59,5
+195,2026-01-28,4628,WhatsApp,Telefonía,Error de facturación,Resuelto,56,48.83,3
+196,2026-01-28,3500,WhatsApp,Paquete Triple,Cancelación de servicio,En proceso,116,31.46,9
+197,2026-01-05,4012,WhatsApp,TV,Problema técnico,En proceso,40,69.69,9
+198,2026-04-02,2675,Oficina,TV,Problema técnico,Pendiente,33,110.12,7
+199,2026-03-09,3501,App,Paquete Triple,Entrega tardía,En proceso,82,51.84,4
+200,2026-03-04,4190,Call Center,TV,Entrega tardía,En proceso,108,115.67,7
+201,2026-04-02,4634,Web,TV,Producto incorrecto,Resuelto,53,152.17,3
+202,2026-01-05,2987,Oficina,Móvil,Cancelación de servicio,Resuelto,16,3.2,10
+203,2026-04-17,2554,Oficina,Internet,Cancelación de servicio,Resuelto,92,175.67,2
+204,2026-02-03,3265,WhatsApp,Internet,Producto incorrecto,Pendiente,85,24.83,9
+205,2026-02-21,1512,Oficina,Internet,Entrega tardía,En proceso,63,152.1,0
+206,2026-02-21,2458,App,Móvil,Entrega tardía,Resuelto,33,3.49,9
+207,2026-04-16,3139,Call Center,Paquete Triple,Problema técnico,Pendiente,87,119.91,3
+208,2026-02-04,2496,WhatsApp,Paquete Triple,Entrega tardía,Pendiente,95,189.94,3
+209,2026-02-15,2065,App,Internet,Problema técnico,Pendiente,56,165.03,9
+210,2026-01-15,1807,App,TV,Cancelación de servicio,Resuelto,94,154.3,10
+211,2026-02-10,2054,Web,TV,Error de facturación,En proceso,80,172.17,1
+212,2026-03-09,4413,WhatsApp,Internet,Producto defectuoso,Resuelto,109,54.19,7
+213,2026-03-20,1559,Oficina,Móvil,Producto defectuoso,Resuelto,18,160.63,9
+214,2026-04-13,3284,WhatsApp,Móvil,Cancelación de servicio,En proceso,100,83.01,9
+215,2026-03-06,4983,WhatsApp,Internet,Cancelación de servicio,Resuelto,82,73.12,5
+216,2026-02-09,4658,Call Center,Móvil,Producto defectuoso,Pendiente,33,37.31,7
+217,2026-04-07,3592,WhatsApp,Paquete Triple,Entrega tardía,Pendiente,45,104.92,2
+218,2026-02-14,4087,Web,Móvil,Producto incorrecto,En proceso,100,160.16,9
+219,2026-03-09,2169,App,TV,Cancelación de servicio,Resuelto,27,24.97,10
+220,2026-01-11,4455,WhatsApp,Internet,Error de facturación,En proceso,98,128.89,0
+221,2026-02-02,1143,WhatsApp,Móvil,Cancelación de servicio,Resuelto,50,26.79,1
+222,2026-04-23,2702,App,Internet,Error de facturación,Resuelto,98,105.99,9
+223,2026-04-19,4705,Web,Telefonía,Entrega tardía,En proceso,29,163.02,0
+224,2026-03-03,4885,Web,Internet,Producto defectuoso,En proceso,95,160.53,6
+225,2026-01-12,3658,App,Paquete Triple,Producto defectuoso,Resuelto,108,48.76,9
+226,2026-04-22,3767,Call Center,Telefonía,Problema técnico,Resuelto,33,72.9,5
+227,2026-02-24,4392,App,Paquete Triple,Producto incorrecto,Resuelto,95,175.94,1
+228,2026-01-10,4715,Call Center,Telefonía,Problema técnico,En proceso,114,7.55,1
+229,2026-01-07,3328,App,Internet,Problema técnico,Pendiente,98,191.55,1
+230,2026-04-09,2976,Oficina,Móvil,Producto incorrecto,En proceso,13,72.22,4
+231,2026-04-09,1916,WhatsApp,Móvil,Producto incorrecto,En proceso,96,61.31,3
+232,2026-04-02,4151,App,Internet,Producto incorrecto,En proceso,39,93.42,8
+233,2026-03-06,3423,App,Telefonía,Error de facturación,Resuelto,16,192.64,3
+234,2026-03-27,1626,WhatsApp,Internet,Producto incorrecto,Pendiente,97,144.95,2
+235,2026-04-24,3020,Oficina,Internet,Cancelación de servicio,En proceso,82,76.11,4
+236,2026-02-16,4489,Call Center,TV,Entrega tardía,En proceso,108,56.72,1
+237,2026-04-11,2316,Call Center,Móvil,Error de facturación,En proceso,82,5.02,3
+238,2026-01-24,2790,Call Center,Internet,Error de facturación,Resuelto,9,148.59,10
+239,2026-01-29,2558,Web,Telefonía,Entrega tardía,Resuelto,95,96.63,10
+240,2026-01-29,2132,Web,Telefonía,Entrega tardía,En proceso,13,72.22,7
+241,2026-02-01,4659,WhatsApp,Paquete Triple,Producto defectuoso,En proceso,113,131.17,2
+242,2026-01-07,3573,Oficina,Móvil,Error de facturación,Pendiente,111,194.15,0
+243,2026-02-07,3766,WhatsApp,TV,Producto incorrecto,En proceso,2,68.39,0
+244,2026-01-18,4268,App,Móvil,Entrega tardía,Resuelto,110,122.52,5
+245,2026-04-16,3755,Oficina,TV,Producto incorrecto,Resuelto,88,108.75,2
+246,2026-02-18,1928,WhatsApp,TV,Problema técnico,Pendiente,64,35.89,7
+247,2026-04-26,3027,App,Telefonía,Producto incorrecto,En proceso,59,159.95,4
+248,2026-03-11,2450,Call Center,Paquete Triple,Problema técnico,Pendiente,4,171.68,5
+249,2026-04-03,3177,Web,Internet,Entrega tardía,Pendiente,41,34.7,9
+250,2026-04-28,3462,Call Center,Móvil,Error de facturación,Pendiente,101,127.24,9
+251,2026-04-16,4952,Oficina,Telefonía,Cancelación de servicio,Resuelto,33,140.54,2
+252,2026-04-12,3209,WhatsApp,Internet,Entrega tardía,Pendiente,51,127.86,0
+253,2026-03-03,1436,Oficina,Telefonía,Cancelación de servicio,Pendiente,38,122.03,0
+254,2026-03-30,1071,App,Paquete Triple,Entrega tardía,Pendiente,13,58.47,4
+255,2026-03-13,1263,Call Center,Móvil,Error de facturación,En proceso,93,114.16,4
+256,2026-01-24,4881,WhatsApp,Paquete Triple,Producto incorrecto,En proceso,88,48.65,6
+257,2026-01-12,4456,Oficina,TV,Producto defectuoso,Resuelto,120,18.34,5
+258,2026-02-23,4210,App,Paquete Triple,Problema técnico,Pendiente,54,110.27,0
+259,2026-04-21,4770,Web,TV,Producto defectuoso,Pendiente,20,137.31,0
+260,2026-03-31,3974,App,Paquete Triple,Cancelación de servicio,Pendiente,7,62.9,0
+261,2026-02-07,2117,App,Móvil,Entrega tardía,En proceso,114,29.7,0
+262,2026-04-27,3768,Call Center,TV,Error de facturación,Pendiente,119,152.83,0
+263,2026-03-30,1700,App,Móvil,Error de facturación,En proceso,69,129.02,5
+264,2026-04-14,1535,Call Center,TV,Error de facturación,En proceso,12,182.23,4
+265,2026-03-25,2844,App,TV,Producto incorrecto,Resuelto,79,195.9,0
+266,2026-02-11,2733,App,Internet,Error de facturación,Pendiente,53,171.77,6
+267,2026-04-24,4281,WhatsApp,Paquete Triple,Problema técnico,Pendiente,21,159.86,3
+268,2026-03-08,3353,Oficina,TV,Error de facturación,En proceso,7,183.28,10
+269,2026-01-07,2961,App,TV,Producto incorrecto,En proceso,76,75.93,0
+270,2026-04-13,4505,Web,Telefonía,Problema técnico,Resuelto,5,115.87,2
+271,2026-02-08,3132,Web,Telefonía,Entrega tardía,Resuelto,76,163.84,10
+272,2026-04-26,1776,Oficina,Internet,Problema técnico,Pendiente,67,138.91,8
+273,2026-03-13,2333,Oficina,Internet,Cancelación de servicio,Resuelto,41,58.58,1
+274,2026-02-25,1756,App,Paquete Triple,Error de facturación,Pendiente,44,128.27,8
+275,2026-03-30,1984,Call Center,Móvil,Problema técnico,Pendiente,97,130.04,8
+276,2026-04-19,1328,WhatsApp,TV,Entrega tardía,En proceso,113,18.89,7
+277,2026-01-09,4928,Oficina,Telefonía,Cancelación de servicio,Resuelto,100,96.47,6
+278,2026-04-10,2236,WhatsApp,Móvil,Producto incorrecto,En proceso,116,109.75,10
+279,2026-04-09,2482,WhatsApp,Telefonía,Entrega tardía,Pendiente,102,187.04,1
+280,2026-02-05,1677,WhatsApp,Paquete Triple,Entrega tardía,En proceso,113,80.35,0
+281,2026-02-27,4771,Web,Internet,Producto incorrecto,Resuelto,17,20.0,3
+282,2026-02-14,4134,Web,TV,Problema técnico,Resuelto,38,182.33,7
+283,2026-01-15,4917,Call Center,Telefonía,Producto defectuoso,En proceso,57,29.18,9
+284,2026-02-25,2609,Call Center,Internet,Problema técnico,Resuelto,93,99.07,6
+285,2026-04-11,2804,Web,Internet,Cancelación de servicio,Pendiente,27,157.01,9
+286,2026-01-14,1752,Oficina,Paquete Triple,Entrega tardía,Resuelto,20,93.22,4
+287,2026-03-10,3955,App,Telefonía,Entrega tardía,Pendiente,112,136.39,7
+288,2026-02-08,2476,App,TV,Problema técnico,Resuelto,15,4.45,6
+289,2026-03-24,3545,Call Center,TV,Producto defectuoso,Pendiente,61,38.81,5
+290,2026-01-17,2404,App,TV,Error de facturación,Resuelto,68,155.87,0
+291,2026-01-21,3907,WhatsApp,Internet,Producto incorrecto,Resuelto,57,103.98,5
+292,2026-02-08,4920,Oficina,Móvil,Error de facturación,Resuelto,84,19.53,8
+293,2026-01-19,3340,WhatsApp,Paquete Triple,Error de facturación,Resuelto,10,130.72,7
+294,2026-04-04,4955,Oficina,Móvil,Problema técnico,En proceso,2,62.41,9
+295,2026-03-09,2936,WhatsApp,Móvil,Producto defectuoso,Resuelto,48,157.35,10
+296,2026-03-03,4820,Oficina,Móvil,Entrega tardía,Resuelto,48,59.58,1
+297,2026-04-04,2104,Call Center,TV,Cancelación de servicio,En proceso,87,184.1,9
+298,2026-02-22,2804,Oficina,Paquete Triple,Problema técnico,Pendiente,69,113.44,3
+299,2026-02-18,1710,App,Internet,Entrega tardía,En proceso,94,107.65,0
+300,2026-01-23,4464,Call Center,Paquete Triple,Producto incorrecto,Pendiente,110,63.46,7
+301,2026-01-13,1259,Call Center,Internet,Producto defectuoso,Resuelto,35,17.45,7
+302,2026-03-09,4126,Web,Móvil,Error de facturación,En proceso,2,177.59,8
+303,2026-04-03,4229,App,TV,Producto incorrecto,Resuelto,58,132.31,4
+304,2026-02-12,2551,Call Center,TV,Producto incorrecto,En proceso,36,34.56,9
+305,2026-01-07,2006,Call Center,Internet,Producto incorrecto,Pendiente,81,51.42,4
+306,2026-03-07,3106,Oficina,Internet,Problema técnico,Pendiente,52,37.69,9
+307,2026-03-05,4760,WhatsApp,Móvil,Cancelación de servicio,Pendiente,30,83.22,8
+308,2026-03-02,4371,Web,Internet,Entrega tardía,Pendiente,62,154.72,9
+309,2026-04-27,3979,WhatsApp,Internet,Cancelación de servicio,Resuelto,43,5.35,10
+310,2026-01-18,4664,App,Móvil,Cancelación de servicio,Resuelto,112,56.93,4
+311,2026-02-13,4761,Web,Internet,Producto incorrecto,En proceso,13,74.13,9
+312,2026-04-07,3413,Oficina,Paquete Triple,Error de facturación,Resuelto,8,53.01,5
+313,2026-04-17,2599,WhatsApp,Paquete Triple,Problema técnico,En proceso,4,81.7,10
+314,2026-01-27,2605,App,TV,Error de facturación,Resuelto,88,16.41,6
+315,2026-01-06,1155,Web,Internet,Producto incorrecto,En proceso,89,35.28,3
+316,2026-01-21,3167,Web,Internet,Error de facturación,En proceso,25,50.64,5
+317,2026-01-21,3837,Oficina,TV,Producto defectuoso,En proceso,95,142.99,6
+318,2026-03-25,4201,Call Center,Paquete Triple,Entrega tardía,Resuelto,50,135.31,10
+319,2026-03-27,1630,WhatsApp,Telefonía,Entrega tardía,Resuelto,53,157.12,8
+320,2026-01-12,2211,Oficina,Móvil,Cancelación de servicio,Resuelto,62,32.95,1
+321,2026-04-03,3268,Call Center,TV,Problema técnico,Resuelto,86,29.3,3
+322,2026-02-05,2713,Web,Internet,Producto defectuoso,En proceso,89,194.05,5
+323,2026-02-07,4508,WhatsApp,TV,Error de facturación,Pendiente,18,75.02,1
+324,2026-01-15,1544,App,Paquete Triple,Entrega tardía,En proceso,9,195.78,3
+325,2026-04-07,3240,Oficina,Móvil,Entrega tardía,Pendiente,77,177.9,7
+326,2026-01-25,2619,Web,TV,Cancelación de servicio,Resuelto,50,42.84,9
+327,2026-02-26,3710,Oficina,Móvil,Error de facturación,Resuelto,77,141.14,8
+328,2026-02-28,1283,Call Center,Telefonía,Cancelación de servicio,En proceso,54,58.55,6
+329,2026-03-29,3170,App,Paquete Triple,Cancelación de servicio,Resuelto,72,14.67,5
+330,2026-01-02,1717,Oficina,Paquete Triple,Producto incorrecto,Pendiente,13,172.76,10
+331,2026-04-12,4753,WhatsApp,Telefonía,Producto defectuoso,Pendiente,45,149.61,0
+332,2026-01-03,1014,Call Center,TV,Entrega tardía,En proceso,32,13.23,5
+333,2026-03-27,2533,App,TV,Error de facturación,Resuelto,69,137.52,9
+334,2026-01-19,1006,Web,Paquete Triple,Error de facturación,En proceso,97,87.57,7
+335,2026-04-25,3053,Call Center,TV,Error de facturación,Resuelto,37,120.15,2
+336,2026-01-14,3697,Oficina,Telefonía,Producto defectuoso,En proceso,77,58.31,5
+337,2026-03-29,4824,Call Center,Móvil,Error de facturación,En proceso,38,31.28,7
+338,2026-01-06,1175,Call Center,Móvil,Error de facturación,Resuelto,27,110.03,6
+339,2026-03-29,3830,Oficina,Paquete Triple,Producto incorrecto,Pendiente,28,69.08,3
+340,2026-03-20,2401,WhatsApp,TV,Producto incorrecto,Pendiente,19,117.1,6
+341,2026-04-05,3423,WhatsApp,Internet,Error de facturación,Resuelto,31,125.33,4
+342,2026-03-14,1862,Call Center,TV,Producto defectuoso,Resuelto,86,11.72,8
+343,2026-01-21,2783,App,Móvil,Producto defectuoso,En proceso,21,184.0,6
+344,2026-04-07,4234,WhatsApp,Paquete Triple,Error de facturación,Resuelto,37,85.88,9
+345,2026-01-09,4689,App,TV,Error de facturación,Resuelto,39,147.32,9
+346,2026-02-08,2228,Web,Telefonía,Problema técnico,En proceso,11,13.48,7
+347,2026-04-18,3792,WhatsApp,Internet,Producto incorrecto,En proceso,105,176.61,0
+348,2026-01-08,3777,Oficina,Paquete Triple,Entrega tardía,Resuelto,15,126.69,1
+349,2026-02-20,4080,App,Telefonía,Error de facturación,Pendiente,62,24.98,7
+350,2026-02-21,4100,Call Center,TV,Entrega tardía,Pendiente,93,134.41,6
+351,2026-03-02,4130,Web,Telefonía,Producto defectuoso,Resuelto,31,175.1,1
+352,2026-01-12,3210,App,TV,Producto defectuoso,En proceso,73,54.34,6
+353,2026-04-20,1885,App,Telefonía,Problema técnico,En proceso,37,189.96,4
+354,2026-02-21,4820,Oficina,Telefonía,Error de facturación,En proceso,70,194.76,7
+355,2026-03-28,1260,App,Telefonía,Producto defectuoso,En proceso,85,70.99,3
+356,2026-02-06,2934,Web,TV,Producto defectuoso,Resuelto,70,137.33,8
+357,2026-02-18,3434,Web,Telefonía,Problema técnico,En proceso,70,173.68,3
+358,2026-04-26,1425,WhatsApp,Telefonía,Producto incorrecto,En proceso,55,22.48,5
+359,2026-01-11,2583,App,Móvil,Error de facturación,Pendiente,51,26.03,6
+360,2026-01-09,1456,Web,Internet,Error de facturación,Pendiente,24,48.84,3
+361,2026-02-13,1793,Call Center,Telefonía,Error de facturación,Resuelto,27,79.12,7
+362,2026-02-04,4234,App,Paquete Triple,Producto defectuoso,Resuelto,67,181.23,0
+363,2026-01-17,3095,WhatsApp,Móvil,Producto incorrecto,Resuelto,49,54.89,5
+364,2026-02-02,2197,Call Center,Internet,Entrega tardía,En proceso,56,9.71,2
+365,2026-04-12,4485,App,Telefonía,Producto defectuoso,En proceso,118,57.81,8
+366,2026-02-17,2331,Call Center,Internet,Problema técnico,En proceso,119,109.41,0
+367,2026-01-27,2739,Oficina,Internet,Producto defectuoso,En proceso,5,69.09,7
+368,2026-01-02,2413,Oficina,Internet,Error de facturación,Resuelto,119,70.94,10
+369,2026-03-15,1788,Web,Telefonía,Error de facturación,En proceso,30,73.55,8
+370,2026-04-25,1920,Call Center,TV,Error de facturación,En proceso,40,53.58,3
+371,2026-01-03,4042,Web,TV,Error de facturación,Resuelto,103,145.66,3
+372,2026-01-05,1764,Call Center,Telefonía,Producto defectuoso,Pendiente,37,158.02,7
+373,2026-02-28,1453,App,Paquete Triple,Cancelación de servicio,Pendiente,60,45.42,8
+374,2026-02-19,1458,App,Paquete Triple,Entrega tardía,Resuelto,57,1.92,4
+375,2026-04-16,1863,Call Center,Paquete Triple,Entrega tardía,Pendiente,8,112.08,0
+376,2026-02-01,4837,Call Center,TV,Producto incorrecto,Pendiente,98,191.59,6
+377,2026-01-22,4606,Call Center,TV,Problema técnico,Pendiente,113,131.17,7
+378,2026-04-20,4664,Oficina,Internet,Entrega tardía,Pendiente,98,168.14,1
+379,2026-03-22,1769,WhatsApp,Telefonía,Entrega tardía,En proceso,12,165.84,6
+380,2026-01-02,2033,Web,Internet,Cancelación de servicio,Resuelto,38,64.0,8
+381,2026-01-24,3873,WhatsApp,Internet,Producto incorrecto,Resuelto,25,130.29,5
+382,2026-04-16,4354,WhatsApp,Móvil,Problema técnico,Resuelto,32,21.23,2
+383,2026-03-22,3132,WhatsApp,Móvil,Problema técnico,Pendiente,25,155.77,4
+384,2026-03-19,3408,Call Center,Móvil,Problema técnico,Pendiente,57,39.22,0
+385,2026-01-06,1570,Web,Móvil,Producto incorrecto,En proceso,62,69.45,3
+386,2026-04-17,2297,Web,Telefonía,Cancelación de servicio,En proceso,51,114.53,6
+387,2026-01-21,4366,Web,Telefonía,Producto incorrecto,En proceso,119,78.95,1
+388,2026-03-25,4033,Oficina,TV,Error de facturación,Resuelto,74,157.94,10
+389,2026-03-09,3557,WhatsApp,Telefonía,Producto incorrecto,Pendiente,72,45.22,5
+390,2026-02-19,1407,Call Center,TV,Entrega tardía,En proceso,84,129.46,10
+391,2026-02-14,2157,App,Internet,Cancelación de servicio,En proceso,93,30.04,10
+392,2026-02-01,3782,WhatsApp,Paquete Triple,Producto incorrecto,Resuelto,8,64.26,3
+393,2026-02-14,3275,Web,Telefonía,Problema técnico,Resuelto,110,44.11,0
+394,2026-04-21,3371,WhatsApp,Móvil,Producto incorrecto,Pendiente,72,3.8,1
+395,2026-01-25,4766,Oficina,Telefonía,Problema técnico,Resuelto,35,127.58,8
+396,2026-04-02,3293,Web,Internet,Entrega tardía,Resuelto,59,89.13,8
+397,2026-01-15,2575,Oficina,Móvil,Producto incorrecto,Pendiente,95,136.11,1
+398,2026-04-30,4245,App,Telefonía,Problema técnico,Pendiente,76,161.48,1
+399,2026-04-08,3725,Web,Móvil,Producto incorrecto,Resuelto,67,117.85,8
+400,2026-04-04,2559,WhatsApp,TV,Problema técnico,Resuelto,26,119.73,3
+401,2026-03-23,4253,Oficina,TV,Producto defectuoso,Pendiente,118,70.47,9
+402,2026-02-15,2241,Oficina,Telefonía,Problema técnico,Pendiente,114,83.12,9
+403,2026-04-14,2058,App,TV,Producto incorrecto,Pendiente,37,104.26,2
+404,2026-04-08,2259,Oficina,Paquete Triple,Cancelación de servicio,En proceso,23,147.37,3
+405,2026-03-24,4378,Web,Paquete Triple,Cancelación de servicio,En proceso,97,199.08,9
+406,2026-01-31,3739,WhatsApp,Paquete Triple,Problema técnico,Pendiente,90,30.65,8
+407,2026-01-06,1811,App,Internet,Producto incorrecto,En proceso,69,192.39,9
+408,2026-01-21,3916,Web,Internet,Producto incorrecto,En proceso,118,1.89,4
+409,2026-01-05,2042,Web,TV,Entrega tardía,Resuelto,83,109.38,5
+410,2026-03-05,1144,Call Center,TV,Entrega tardía,Pendiente,13,29.47,9
+411,2026-02-18,1968,App,Paquete Triple,Cancelación de servicio,En proceso,43,2.11,1
+412,2026-02-08,1768,Oficina,Móvil,Cancelación de servicio,En proceso,81,58.19,8
+413,2026-03-24,3374,Oficina,Móvil,Producto defectuoso,En proceso,2,91.01,2
+414,2026-03-18,4455,Web,TV,Entrega tardía,Pendiente,51,143.37,3
+415,2026-02-01,3961,Call Center,Paquete Triple,Entrega tardía,En proceso,9,64.82,9
+416,2026-01-09,3028,Call Center,Telefonía,Error de facturación,Pendiente,52,14.08,5
+417,2026-01-24,1425,App,Móvil,Producto incorrecto,Resuelto,26,93.76,1
+418,2026-02-04,1239,Call Center,Internet,Entrega tardía,Pendiente,17,72.81,0
+419,2026-02-26,3854,App,Telefonía,Problema técnico,En proceso,96,191.15,5
+420,2026-04-26,1098,Web,Paquete Triple,Error de facturación,Resuelto,30,92.42,2
+421,2026-04-24,1894,Web,Telefonía,Cancelación de servicio,En proceso,113,47.1,9
+422,2026-02-26,4686,WhatsApp,TV,Producto defectuoso,Pendiente,83,177.87,1
+423,2026-01-06,2294,Web,Móvil,Producto defectuoso,Resuelto,79,184.5,10
+424,2026-03-24,2671,Call Center,Internet,Cancelación de servicio,Resuelto,32,53.98,5
+425,2026-03-05,4325,Web,Internet,Producto incorrecto,En proceso,9,189.95,0
+426,2026-03-03,1714,Oficina,Internet,Problema técnico,Resuelto,18,38.42,7
+427,2026-01-11,4879,Web,Paquete Triple,Producto incorrecto,Pendiente,79,50.0,4
+428,2026-02-28,4501,WhatsApp,TV,Entrega tardía,Resuelto,45,171.65,6
+429,2026-01-12,1809,App,TV,Cancelación de servicio,Pendiente,36,61.68,8
+430,2026-03-17,2593,Oficina,Internet,Producto defectuoso,Resuelto,54,18.57,3
+431,2026-03-16,4510,WhatsApp,TV,Problema técnico,En proceso,46,159.04,6
+432,2026-04-08,1928,Call Center,Telefonía,Error de facturación,Pendiente,64,166.13,10
+433,2026-03-16,3990,Web,Internet,Error de facturación,Pendiente,105,24.54,6
+434,2026-01-18,1678,WhatsApp,Paquete Triple,Entrega tardía,Resuelto,40,9.75,2
+435,2026-01-31,1038,Call Center,Telefonía,Producto defectuoso,Pendiente,113,90.73,7
+436,2026-04-14,2099,Call Center,TV,Problema técnico,Resuelto,104,3.34,6
+437,2026-04-01,2802,Web,Paquete Triple,Problema técnico,Pendiente,88,189.79,6
+438,2026-02-02,3653,Web,Internet,Entrega tardía,En proceso,13,38.25,5
+439,2026-01-12,3803,WhatsApp,TV,Entrega tardía,Resuelto,73,192.81,8
+440,2026-01-11,2937,Web,Internet,Entrega tardía,En proceso,30,83.32,0
+441,2026-01-19,4418,WhatsApp,Telefonía,Problema técnico,Pendiente,12,163.54,5
+442,2026-01-14,1660,Web,Paquete Triple,Cancelación de servicio,En proceso,33,26.31,9
+443,2026-01-31,3859,Oficina,TV,Producto incorrecto,En proceso,3,138.44,0
+444,2026-02-05,3110,App,Paquete Triple,Entrega tardía,En proceso,41,142.65,3
+445,2026-03-02,3997,Web,Paquete Triple,Producto incorrecto,Pendiente,37,120.02,2
+446,2026-04-26,3331,App,Paquete Triple,Cancelación de servicio,Resuelto,16,82.07,7
+447,2026-01-04,3313,App,Telefonía,Cancelación de servicio,En proceso,97,146.12,6
+448,2026-01-30,4642,Web,Móvil,Producto incorrecto,Pendiente,26,77.46,5
+449,2026-03-12,1570,Oficina,Internet,Cancelación de servicio,En proceso,102,44.12,10
+450,2026-02-16,3565,Oficina,Telefonía,Cancelación de servicio,En proceso,106,82.79,8
+451,2026-04-08,1949,App,Móvil,Cancelación de servicio,En proceso,23,157.32,9
+452,2026-01-05,1443,Web,Paquete Triple,Cancelación de servicio,En proceso,24,145.24,1
+453,2026-03-29,2375,Call Center,Internet,Problema técnico,Resuelto,53,77.03,10
+454,2026-01-31,2965,Call Center,TV,Problema técnico,Pendiente,52,111.33,0
+455,2026-01-03,3830,Oficina,Internet,Error de facturación,Resuelto,27,94.14,2
+456,2026-04-14,1628,WhatsApp,Internet,Cancelación de servicio,En proceso,61,66.62,0
+457,2026-03-22,4789,Oficina,Internet,Entrega tardía,En proceso,81,50.77,0
+458,2026-01-27,2185,WhatsApp,Internet,Entrega tardía,En proceso,67,134.19,10
+459,2026-01-13,4018,WhatsApp,Paquete Triple,Producto incorrecto,Pendiente,14,67.89,0
+460,2026-01-25,1618,Call Center,Móvil,Entrega tardía,Resuelto,56,90.08,10
+461,2026-03-27,2273,WhatsApp,Telefonía,Cancelación de servicio,Resuelto,98,185.66,3
+462,2026-04-28,4117,Oficina,TV,Entrega tardía,En proceso,45,110.35,8
+463,2026-03-03,1323,Web,TV,Error de facturación,En proceso,86,183.12,6
+464,2026-01-22,1623,Call Center,Internet,Producto defectuoso,Resuelto,112,166.76,2
+465,2026-03-25,2933,Web,Móvil,Cancelación de servicio,Resuelto,80,65.36,1
+466,2026-02-18,2006,Call Center,Móvil,Producto incorrecto,Pendiente,24,77.24,1
+467,2026-03-11,3236,WhatsApp,Internet,Cancelación de servicio,En proceso,103,22.66,3
+468,2026-04-26,1140,WhatsApp,Paquete Triple,Producto defectuoso,Pendiente,43,2.69,8
+469,2026-03-13,1425,App,Internet,Error de facturación,Resuelto,64,71.84,7
+470,2026-04-03,1014,App,Móvil,Producto incorrecto,Resuelto,74,16.48,10
+471,2026-03-08,1882,App,Paquete Triple,Producto defectuoso,En proceso,60,189.42,0
+472,2026-01-10,2637,Call Center,TV,Entrega tardía,Pendiente,64,138.92,8
+473,2026-02-09,3756,App,Móvil,Producto defectuoso,Pendiente,92,77.14,3
+474,2026-01-25,4194,Web,Paquete Triple,Error de facturación,Resuelto,74,9.66,9
+475,2026-03-15,3645,Call Center,Paquete Triple,Cancelación de servicio,En proceso,103,0.49,4
+476,2026-02-04,4337,App,Paquete Triple,Problema técnico,Resuelto,60,172.02,5
+477,2026-03-13,4211,App,Internet,Producto defectuoso,Pendiente,71,84.69,2
+478,2026-01-03,4643,Call Center,Paquete Triple,Entrega tardía,Pendiente,88,120.54,4
+479,2026-04-24,1920,Call Center,TV,Problema técnico,Pendiente,58,17.95,1
+480,2026-02-02,3359,Web,Internet,Producto incorrecto,Resuelto,10,26.16,6
+481,2026-02-04,3795,Web,Paquete Triple,Entrega tardía,Resuelto,66,79.55,8
+482,2026-03-15,4116,Web,Móvil,Problema técnico,Pendiente,68,11.0,10
+483,2026-04-13,2630,Web,Móvil,Cancelación de servicio,Pendiente,75,183.45,5
+484,2026-01-24,3737,Oficina,Internet,Entrega tardía,En proceso,84,37.5,8
+485,2026-03-09,1889,Call Center,Móvil,Entrega tardía,Resuelto,90,164.65,8
+486,2026-03-05,1625,Web,Internet,Problema técnico,Pendiente,47,106.34,3
+487,2026-01-17,2151,Web,Móvil,Cancelación de servicio,En proceso,32,186.52,10
+488,2026-04-17,3901,Oficina,Paquete Triple,Error de facturación,Pendiente,62,176.64,10
+489,2026-03-09,1511,Oficina,Telefonía,Producto incorrecto,Pendiente,3,56.15,7
+490,2026-01-13,2175,Oficina,Internet,Producto incorrecto,Resuelto,28,20.44,4
+491,2026-01-24,2696,Oficina,Móvil,Problema técnico,En proceso,89,0.02,9
+492,2026-02-04,3673,Oficina,Paquete Triple,Error de facturación,Resuelto,7,74.72,1
+493,2026-01-24,3991,App,Móvil,Problema técnico,Pendiente,75,100.71,0
+494,2026-01-19,2763,App,Internet,Problema técnico,En proceso,94,58.66,3
+495,2026-03-10,3152,WhatsApp,TV,Producto incorrecto,En proceso,94,33.28,7
+496,2026-02-03,4472,Call Center,Paquete Triple,Producto defectuoso,En proceso,106,5.53,8
+497,2026-01-14,1024,Web,Internet,Producto incorrecto,Pendiente,109,36.47,3
+498,2026-04-07,2645,App,Paquete Triple,Problema técnico,Pendiente,34,131.87,8
+499,2026-01-25,2754,App,TV,Error de facturación,Resuelto,26,103.65,2
+500,2026-01-22,2236,Web,Paquete Triple,Producto incorrecto,Pendiente,4,16.0,7
+501,2026-01-20,3304,Web,TV,Producto defectuoso,Resuelto,98,169.6,3
+502,2026-03-04,2728,App,Telefonía,Producto incorrecto,Pendiente,6,137.48,9
+503,2026-04-01,2770,App,TV,Entrega tardía,En proceso,76,49.84,0
+504,2026-01-24,3975,Call Center,Telefonía,Cancelación de servicio,Resuelto,1,43.19,5
+505,2026-01-22,3058,Web,Telefonía,Cancelación de servicio,Pendiente,59,15.76,3
+506,2026-04-13,3616,Oficina,Internet,Error de facturación,En proceso,21,74.97,4
+507,2026-04-02,1325,Web,Móvil,Cancelación de servicio,En proceso,72,87.61,10
+508,2026-01-22,1113,WhatsApp,Telefonía,Producto incorrecto,Resuelto,120,15.45,1
+509,2026-02-11,3304,App,Móvil,Cancelación de servicio,Resuelto,46,140.02,8
+510,2026-01-22,1340,WhatsApp,TV,Cancelación de servicio,Resuelto,77,176.78,7
+511,2026-04-28,1420,WhatsApp,TV,Cancelación de servicio,En proceso,80,139.32,7
+512,2026-04-29,2456,Web,Internet,Problema técnico,Pendiente,65,83.21,4
+513,2026-01-12,4413,Oficina,Móvil,Producto incorrecto,Resuelto,95,188.49,10
+514,2026-01-06,2561,Web,Móvil,Entrega tardía,En proceso,13,184.92,10
+515,2026-02-08,1307,Call Center,Internet,Cancelación de servicio,Resuelto,117,68.56,10
+516,2026-02-21,4635,Web,Internet,Cancelación de servicio,Pendiente,109,27.13,6
+517,2026-03-15,3182,Call Center,Internet,Cancelación de servicio,En proceso,75,159.16,8
+518,2026-05-01,1637,Web,Paquete Triple,Producto incorrecto,En proceso,54,77.59,3
+519,2026-04-05,1424,Oficina,Telefonía,Entrega tardía,Resuelto,24,14.47,7
+520,2026-02-10,4703,Call Center,Internet,Problema técnico,Pendiente,71,2.58,6
+521,2026-03-09,1998,Web,Paquete Triple,Cancelación de servicio,Pendiente,81,84.45,7
+522,2026-02-16,3335,WhatsApp,Internet,Cancelación de servicio,En proceso,64,157.04,2
+523,2026-01-21,1724,App,Telefonía,Problema técnico,Resuelto,39,60.14,1
+524,2026-04-08,3438,WhatsApp,Móvil,Cancelación de servicio,Resuelto,116,147.0,3
+525,2026-02-12,1945,App,Paquete Triple,Cancelación de servicio,En proceso,47,47.8,8
+526,2026-04-13,3306,App,Telefonía,Error de facturación,En proceso,95,124.97,5
+527,2026-03-29,3446,Oficina,Móvil,Producto incorrecto,En proceso,79,128.27,4
+528,2026-01-05,2573,App,Internet,Cancelación de servicio,En proceso,38,16.13,0
+529,2026-02-01,1466,App,Paquete Triple,Error de facturación,Pendiente,89,99.87,1
+530,2026-04-27,1245,Web,TV,Producto incorrecto,Resuelto,68,194.3,6
+531,2026-03-05,4384,WhatsApp,Internet,Cancelación de servicio,Resuelto,90,32.24,1
+532,2026-03-26,2883,Oficina,Paquete Triple,Producto incorrecto,Pendiente,83,62.17,5
+533,2026-04-27,1417,App,Telefonía,Producto incorrecto,En proceso,70,129.77,3
+534,2026-02-21,3230,Oficina,TV,Error de facturación,Pendiente,85,127.52,10
+535,2026-01-07,1754,WhatsApp,Paquete Triple,Producto incorrecto,Pendiente,97,40.06,3
+536,2026-04-24,4045,Oficina,Telefonía,Cancelación de servicio,En proceso,55,6.3,5
+537,2026-01-09,4408,Oficina,TV,Error de facturación,En proceso,21,150.68,4
+538,2026-04-11,4442,Web,Paquete Triple,Problema técnico,En proceso,69,47.49,3
+539,2026-04-25,1027,App,Móvil,Producto defectuoso,En proceso,8,180.64,4
+540,2026-02-20,2412,Oficina,Móvil,Producto incorrecto,En proceso,106,158.72,5
+541,2026-02-13,1508,Call Center,Paquete Triple,Cancelación de servicio,Resuelto,54,111.39,5
+542,2026-01-17,3824,App,TV,Producto defectuoso,Resuelto,95,113.26,0
+543,2026-03-08,1340,App,Internet,Problema técnico,Resuelto,26,64.27,0
+544,2026-02-08,3478,App,TV,Problema técnico,Resuelto,27,89.85,8
+545,2026-04-21,1870,App,Paquete Triple,Problema técnico,Resuelto,39,190.65,9
+546,2026-01-07,1019,Web,Paquete Triple,Problema técnico,Pendiente,6,10.65,9
+547,2026-04-25,2583,WhatsApp,Telefonía,Error de facturación,Pendiente,105,132.41,7
+548,2026-01-03,4684,App,TV,Cancelación de servicio,En proceso,8,75.0,7
+549,2026-03-25,2786,WhatsApp,TV,Cancelación de servicio,Resuelto,104,155.93,3
+550,2026-01-12,2682,Oficina,Internet,Producto defectuoso,Resuelto,76,21.31,1
+551,2026-03-09,2754,WhatsApp,Telefonía,Problema técnico,Pendiente,113,40.21,2
+552,2026-02-16,4580,Web,Móvil,Error de facturación,Pendiente,120,191.68,6
+553,2026-04-30,3403,Call Center,TV,Error de facturación,En proceso,69,113.47,1
+554,2026-01-28,4420,WhatsApp,Telefonía,Cancelación de servicio,Resuelto,11,57.1,10
+555,2026-01-05,2802,App,Internet,Producto incorrecto,Pendiente,4,146.04,8
+556,2026-01-06,2535,App,Telefonía,Cancelación de servicio,Pendiente,23,49.09,3
+557,2026-04-03,3631,Oficina,TV,Entrega tardía,Pendiente,6,59.46,7
+558,2026-04-09,1286,App,TV,Error de facturación,Pendiente,37,96.62,0
+559,2026-03-22,1348,Web,TV,Producto incorrecto,En proceso,89,128.95,9
+560,2026-02-04,2981,Oficina,Telefonía,Problema técnico,Pendiente,92,184.23,1
+561,2026-02-15,3672,WhatsApp,Móvil,Producto incorrecto,En proceso,107,102.93,0
+562,2026-01-06,2548,Call Center,TV,Entrega tardía,Pendiente,63,89.57,3
+563,2026-04-23,2434,App,Internet,Error de facturación,Resuelto,48,129.25,1
+564,2026-01-08,3271,Web,Telefonía,Entrega tardía,En proceso,58,80.32,8
+565,2026-02-20,3248,Web,Paquete Triple,Entrega tardía,Pendiente,33,14.31,7
+566,2026-04-02,2337,Call Center,Internet,Entrega tardía,Resuelto,99,46.05,0
+567,2026-01-26,1966,Oficina,Internet,Producto incorrecto,Pendiente,45,166.47,4
+568,2026-01-27,4400,Call Center,TV,Problema técnico,En proceso,97,45.34,2
+569,2026-03-11,3492,Oficina,TV,Error de facturación,En proceso,29,3.28,0
+570,2026-02-03,1783,Web,Internet,Problema técnico,Pendiente,32,21.98,1
+571,2026-02-23,1361,WhatsApp,Paquete Triple,Error de facturación,En proceso,36,43.99,8
+572,2026-04-26,1864,Web,TV,Problema técnico,Pendiente,40,65.82,10
+573,2026-03-01,2241,App,Paquete Triple,Cancelación de servicio,En proceso,45,1.63,2
+574,2026-03-29,4305,Web,Paquete Triple,Producto defectuoso,Resuelto,105,170.57,7
+575,2026-03-07,3341,WhatsApp,Paquete Triple,Error de facturación,Pendiente,41,60.34,3
+576,2026-03-18,1056,Oficina,Internet,Problema técnico,Resuelto,74,167.07,6
+577,2026-02-07,1125,Call Center,Paquete Triple,Error de facturación,Pendiente,19,147.59,10
+578,2026-02-25,4073,App,Móvil,Producto defectuoso,En proceso,69,20.74,2
+579,2026-02-19,3888,Web,TV,Producto defectuoso,En proceso,102,27.31,6
+580,2026-01-31,2207,Web,Telefonía,Producto defectuoso,Resuelto,52,49.47,1
+581,2026-04-14,4157,Web,Paquete Triple,Error de facturación,Pendiente,67,136.68,10
+582,2026-03-08,1685,WhatsApp,Paquete Triple,Problema técnico,Pendiente,105,145.66,9
+583,2026-02-06,3805,WhatsApp,Móvil,Entrega tardía,Resuelto,26,27.16,8
+584,2026-03-26,3619,Call Center,TV,Entrega tardía,Pendiente,82,54.23,4
+585,2026-03-18,2260,Oficina,Telefonía,Cancelación de servicio,Pendiente,116,29.64,9
+586,2026-02-06,4107,App,Telefonía,Error de facturación,Resuelto,38,187.13,0
+587,2026-02-08,2249,Web,TV,Error de facturación,Pendiente,120,144.65,8
+588,2026-03-26,1421,Web,Internet,Problema técnico,Resuelto,16,87.48,4
+589,2026-05-01,3609,App,TV,Entrega tardía,Pendiente,60,158.57,4
+590,2026-02-02,3871,Web,Internet,Error de facturación,Pendiente,104,84.88,8
+591,2026-04-26,1117,Web,Internet,Producto defectuoso,Pendiente,13,28.25,9
+592,2026-03-30,3900,App,TV,Problema técnico,En proceso,30,182.09,2
+593,2026-03-02,4065,App,Telefonía,Producto defectuoso,Pendiente,6,68.05,7
+594,2026-04-20,3503,Call Center,Internet,Cancelación de servicio,Resuelto,21,6.13,0
+595,2026-02-03,1628,Web,Internet,Producto defectuoso,En proceso,55,57.6,5
+596,2026-01-22,4822,App,Telefonía,Cancelación de servicio,Pendiente,34,162.53,9
+597,2026-04-15,3289,WhatsApp,Paquete Triple,Entrega tardía,Pendiente,77,189.38,2
+598,2026-02-25,1209,Web,Paquete Triple,Cancelación de servicio,En proceso,109,108.38,5
+599,2026-04-10,1913,WhatsApp,Telefonía,Problema técnico,Resuelto,49,136.59,8
+600,2026-02-23,4864,Call Center,Móvil,Producto incorrecto,Pendiente,33,70.11,8
+601,2026-01-02,2257,Web,Internet,Problema técnico,Pendiente,5,153.41,6
+602,2026-02-13,1590,Call Center,Móvil,Cancelación de servicio,En proceso,77,165.58,10
+603,2026-01-25,3275,WhatsApp,Paquete Triple,Cancelación de servicio,Resuelto,108,35.85,4
+604,2026-01-07,1584,Call Center,Paquete Triple,Producto incorrecto,En proceso,60,57.9,0
+605,2026-01-24,4497,App,Móvil,Problema técnico,En proceso,70,68.5,9
+606,2026-04-16,1036,Web,TV,Entrega tardía,Pendiente,38,186.84,4
+607,2026-02-23,4497,WhatsApp,TV,Problema técnico,Resuelto,57,120.29,5
+608,2026-03-16,3726,Web,TV,Producto incorrecto,Pendiente,56,72.48,7
+609,2026-01-17,1439,Web,Telefonía,Error de facturación,Pendiente,49,8.07,9
+610,2026-04-02,2093,Web,TV,Producto incorrecto,Resuelto,73,70.69,5
+611,2026-04-22,4868,Call Center,TV,Producto incorrecto,Resuelto,108,29.17,3
+612,2026-02-23,1457,Oficina,Móvil,Producto defectuoso,Pendiente,55,188.22,9
+613,2026-03-16,1598,Call Center,Internet,Producto defectuoso,En proceso,74,7.34,5
+614,2026-03-09,4640,WhatsApp,Internet,Problema técnico,En proceso,90,91.43,2
+615,2026-02-14,2820,App,Paquete Triple,Problema técnico,Resuelto,81,97.69,4
+616,2026-04-10,4467,App,Paquete Triple,Producto defectuoso,En proceso,18,124.46,8
+617,2026-02-17,4734,Web,Paquete Triple,Producto incorrecto,En proceso,108,47.46,2
+618,2026-01-27,2034,Web,Móvil,Problema técnico,Resuelto,40,69.13,4
+619,2026-04-16,4886,Web,Móvil,Problema técnico,Resuelto,101,27.2,9
+620,2026-03-01,4023,App,Telefonía,Producto defectuoso,En proceso,70,132.99,2
+621,2026-02-27,4046,Call Center,TV,Producto incorrecto,Resuelto,95,190.53,8
+622,2026-04-03,1506,Web,Paquete Triple,Producto incorrecto,En proceso,91,102.92,7
+623,2026-01-13,2189,App,Paquete Triple,Cancelación de servicio,Resuelto,65,54.63,6
+624,2026-01-29,4697,App,Telefonía,Producto incorrecto,Resuelto,81,77.82,1
+625,2026-04-05,3926,Oficina,Internet,Producto incorrecto,Resuelto,107,185.18,3
+626,2026-04-12,4901,WhatsApp,Internet,Producto incorrecto,En proceso,77,171.91,3
+627,2026-02-02,3046,Oficina,Internet,Error de facturación,Pendiente,17,27.14,6
+628,2026-03-10,2737,App,Paquete Triple,Error de facturación,Pendiente,39,159.66,2
+629,2026-02-06,2971,Call Center,Telefonía,Producto defectuoso,En proceso,28,79.77,0
+630,2026-03-03,3258,Call Center,Internet,Error de facturación,Pendiente,20,43.76,8
+631,2026-01-28,4770,WhatsApp,Internet,Producto defectuoso,Resuelto,54,33.47,1
+632,2026-04-01,3275,Call Center,Paquete Triple,Entrega tardía,Pendiente,63,109.98,2
+633,2026-01-11,2833,Oficina,TV,Cancelación de servicio,En proceso,22,151.65,2
+634,2026-02-11,2626,WhatsApp,Internet,Entrega tardía,En proceso,83,159.02,6
+635,2026-01-10,2178,Web,Internet,Producto incorrecto,Resuelto,32,101.68,5
+636,2026-02-06,1037,WhatsApp,Internet,Entrega tardía,Pendiente,43,101.31,4
+637,2026-03-03,2675,Call Center,Móvil,Producto incorrecto,Pendiente,81,36.65,5
+638,2026-04-06,3893,Web,Paquete Triple,Problema técnico,Resuelto,48,32.76,10
+639,2026-03-11,3130,Call Center,Telefonía,Producto incorrecto,En proceso,75,108.35,2
+640,2026-04-11,2393,Oficina,Móvil,Cancelación de servicio,En proceso,4,8.75,3
+641,2026-04-22,4166,WhatsApp,TV,Producto incorrecto,Resuelto,98,105.03,9
+642,2026-03-27,2921,Oficina,TV,Problema técnico,En proceso,119,65.53,6
+643,2026-01-22,2425,App,Internet,Producto incorrecto,En proceso,31,44.27,4
+644,2026-03-08,1415,Call Center,Paquete Triple,Producto incorrecto,Resuelto,115,107.32,8
+645,2026-04-30,1052,Oficina,Internet,Problema técnico,Resuelto,109,181.86,6
+646,2026-01-14,2712,Web,Internet,Error de facturación,En proceso,93,176.98,10
+647,2026-01-16,2658,WhatsApp,Paquete Triple,Producto defectuoso,Pendiente,39,34.05,6
+648,2026-03-24,2456,App,Telefonía,Producto incorrecto,Pendiente,20,124.02,0
+649,2026-01-29,2859,App,Telefonía,Problema técnico,Pendiente,98,106.07,10
+650,2026-03-22,3049,Web,Internet,Error de facturación,En proceso,63,146.33,1
+651,2026-03-16,1398,Call Center,Telefonía,Producto defectuoso,Pendiente,94,12.52,0
+652,2026-01-04,1190,WhatsApp,Telefonía,Problema técnico,Pendiente,92,5.85,3
+653,2026-04-27,2622,Web,Móvil,Cancelación de servicio,Pendiente,16,38.63,7
+654,2026-04-09,4853,WhatsApp,TV,Problema técnico,En proceso,68,97.06,7
+655,2026-03-15,1105,App,TV,Producto incorrecto,En proceso,65,142.06,6
+656,2026-01-22,4611,WhatsApp,TV,Producto defectuoso,En proceso,60,106.76,9
+657,2026-02-11,3103,WhatsApp,Paquete Triple,Cancelación de servicio,Resuelto,22,89.65,6
+658,2026-01-27,3804,Call Center,Móvil,Cancelación de servicio,Resuelto,98,116.83,5
+659,2026-01-06,2857,Oficina,Telefonía,Problema técnico,Pendiente,64,39.75,10
+660,2026-03-01,2300,WhatsApp,Móvil,Producto defectuoso,En proceso,84,102.85,5
+661,2026-04-26,3038,Web,TV,Cancelación de servicio,Pendiente,38,54.35,10
+662,2026-04-17,4514,Oficina,Telefonía,Problema técnico,Resuelto,109,192.05,4
+663,2026-01-18,4994,WhatsApp,TV,Problema técnico,En proceso,5,180.82,10
+664,2026-04-16,4264,WhatsApp,TV,Entrega tardía,En proceso,23,119.29,6
+665,2026-01-16,2205,Web,Móvil,Entrega tardía,En proceso,96,115.63,1
+666,2026-01-10,1967,Oficina,Telefonía,Error de facturación,Pendiente,63,119.57,2
+667,2026-04-09,3265,Web,Paquete Triple,Cancelación de servicio,Resuelto,48,75.26,1
+668,2026-01-08,3364,Oficina,Paquete Triple,Error de facturación,Resuelto,19,103.76,9
+669,2026-02-13,2325,WhatsApp,Internet,Error de facturación,Pendiente,24,31.92,10
+670,2026-03-13,3420,WhatsApp,Telefonía,Producto defectuoso,Resuelto,96,167.0,1
+671,2026-04-30,3651,Web,Paquete Triple,Error de facturación,Resuelto,66,186.63,1
+672,2026-02-07,3189,Oficina,Paquete Triple,Cancelación de servicio,En proceso,12,87.71,6
+673,2026-01-12,2112,Web,TV,Producto defectuoso,Resuelto,34,62.77,0
+674,2026-01-04,1471,App,Internet,Producto defectuoso,Pendiente,106,172.26,7
+675,2026-03-14,1791,WhatsApp,TV,Producto defectuoso,En proceso,45,153.56,4
+676,2026-04-26,4386,Oficina,Internet,Producto incorrecto,Resuelto,23,183.14,6
+677,2026-01-25,3840,Oficina,Telefonía,Producto incorrecto,Resuelto,6,11.44,4
+678,2026-01-17,4095,Call Center,Internet,Error de facturación,Pendiente,74,11.79,7
+679,2026-02-02,1628,Oficina,Telefonía,Producto defectuoso,Pendiente,48,62.44,4
+680,2026-04-28,3410,App,TV,Cancelación de servicio,En proceso,111,108.68,2
+681,2026-03-29,3559,WhatsApp,Paquete Triple,Cancelación de servicio,Resuelto,103,179.21,4
+682,2026-02-05,1847,Call Center,Telefonía,Producto incorrecto,Resuelto,120,50.02,5
+683,2026-03-12,4880,Call Center,Telefonía,Problema técnico,Resuelto,118,140.45,4
+684,2026-04-20,1180,App,Internet,Producto incorrecto,Resuelto,103,170.85,8
+685,2026-04-01,1714,App,TV,Producto defectuoso,En proceso,10,187.1,7
+686,2026-01-22,4915,Oficina,Móvil,Entrega tardía,Resuelto,24,57.9,4
+687,2026-04-16,1315,Web,Móvil,Error de facturación,Pendiente,71,132.32,5
+688,2026-02-24,1846,Web,Móvil,Problema técnico,Resuelto,23,76.37,4
+689,2026-03-26,1200,App,Paquete Triple,Producto incorrecto,Pendiente,45,51.27,7
+690,2026-03-29,3694,Call Center,Paquete Triple,Producto defectuoso,Pendiente,32,135.78,7
+691,2026-04-05,1740,Web,Móvil,Entrega tardía,Resuelto,112,82.46,0
+692,2026-03-17,2452,App,TV,Entrega tardía,Resuelto,40,109.77,3
+693,2026-02-25,1222,Web,Paquete Triple,Producto defectuoso,En proceso,13,149.99,0
+694,2026-04-08,3757,WhatsApp,TV,Cancelación de servicio,Resuelto,24,159.61,6
+695,2026-04-30,3072,Oficina,Telefonía,Error de facturación,Pendiente,29,189.05,4
+696,2026-01-05,4855,Oficina,Telefonía,Entrega tardía,Resuelto,104,141.27,5
+697,2026-02-09,1447,Call Center,Internet,Entrega tardía,Resuelto,84,61.06,3
+698,2026-03-24,1587,Oficina,Telefonía,Cancelación de servicio,En proceso,30,48.89,7
+699,2026-01-14,3969,Oficina,Telefonía,Producto defectuoso,Pendiente,27,171.6,10
+700,2026-03-17,4140,Oficina,Internet,Error de facturación,Pendiente,93,57.3,2
+701,2026-02-28,4625,Oficina,Internet,Producto defectuoso,En proceso,47,82.99,9
+702,2026-01-22,4850,Call Center,Internet,Entrega tardía,En proceso,6,52.0,4
+703,2026-01-25,2010,Oficina,TV,Entrega tardía,En proceso,95,139.31,6
+704,2026-03-06,3704,App,Paquete Triple,Error de facturación,Resuelto,86,42.89,5
+705,2026-03-03,2863,Oficina,Paquete Triple,Problema técnico,Resuelto,97,63.18,6
+706,2026-01-23,2823,Web,TV,Producto defectuoso,Pendiente,90,25.0,9
+707,2026-02-09,2600,WhatsApp,Internet,Producto incorrecto,Pendiente,62,182.83,1
+708,2026-02-07,3626,Call Center,Telefonía,Entrega tardía,Resuelto,41,45.95,4
+709,2026-03-22,3566,App,Paquete Triple,Producto incorrecto,Pendiente,55,162.25,10
+710,2026-03-06,2753,Call Center,TV,Error de facturación,Pendiente,70,199.31,10
+711,2026-01-03,2984,Oficina,Paquete Triple,Producto defectuoso,Pendiente,59,104.87,4
+712,2026-01-31,1638,WhatsApp,Móvil,Problema técnico,Pendiente,12,135.27,7
+713,2026-04-10,2177,Oficina,Móvil,Entrega tardía,En proceso,59,79.43,4
+714,2026-03-09,2619,Web,Móvil,Error de facturación,Pendiente,104,10.93,5
+715,2026-03-13,2147,Oficina,Paquete Triple,Entrega tardía,En proceso,59,27.48,5
+716,2026-01-26,1494,Oficina,Móvil,Producto defectuoso,Resuelto,96,93.75,2
+717,2026-02-06,2543,Oficina,Paquete Triple,Problema técnico,En proceso,92,136.91,7
+718,2026-02-04,1693,WhatsApp,TV,Entrega tardía,En proceso,67,134.84,1
+719,2026-03-21,4512,Web,Móvil,Cancelación de servicio,Pendiente,62,97.91,10
+720,2026-04-30,2853,Web,Móvil,Producto defectuoso,En proceso,99,5.1,9
+721,2026-01-25,1890,App,Móvil,Producto defectuoso,Resuelto,110,194.88,7
+722,2026-03-07,1029,App,TV,Producto defectuoso,En proceso,1,197.01,9
+723,2026-01-06,1498,App,Telefonía,Problema técnico,Resuelto,103,182.65,5
+724,2026-01-12,3495,App,Móvil,Problema técnico,Pendiente,26,159.77,0
+725,2026-01-08,3599,WhatsApp,Móvil,Problema técnico,Resuelto,83,118.58,8
+726,2026-03-17,1733,WhatsApp,TV,Error de facturación,Pendiente,98,27.23,8
+727,2026-03-03,2346,WhatsApp,Telefonía,Problema técnico,Resuelto,86,177.2,1
+728,2026-03-27,4046,Oficina,Telefonía,Cancelación de servicio,Resuelto,105,176.15,3
+729,2026-03-01,4692,Oficina,Paquete Triple,Problema técnico,Pendiente,73,102.55,9
+730,2026-01-23,2230,App,Internet,Producto defectuoso,Pendiente,109,188.58,4
+731,2026-02-15,3119,Oficina,Internet,Problema técnico,Resuelto,81,58.67,1
+732,2026-04-09,2853,Web,TV,Problema técnico,Pendiente,70,124.71,1
+733,2026-04-20,3436,Call Center,Telefonía,Error de facturación,En proceso,107,182.66,9
+734,2026-04-19,4212,Call Center,TV,Producto defectuoso,Resuelto,50,71.03,0
+735,2026-04-01,1461,Web,Internet,Problema técnico,Resuelto,66,174.37,0
+736,2026-04-03,2615,WhatsApp,TV,Producto incorrecto,Resuelto,63,187.45,8
+737,2026-03-18,4423,Web,Paquete Triple,Producto defectuoso,Resuelto,35,195.56,7
+738,2026-04-22,1061,WhatsApp,Móvil,Producto incorrecto,En proceso,107,147.48,7
+739,2026-01-08,1832,App,Paquete Triple,Entrega tardía,En proceso,105,61.26,3
+740,2026-03-06,3900,Oficina,TV,Producto defectuoso,Resuelto,41,165.92,8
+741,2026-03-02,3404,Oficina,Paquete Triple,Producto incorrecto,Pendiente,76,67.37,9
+742,2026-04-07,4930,App,TV,Error de facturación,Resuelto,36,16.19,7
+743,2026-02-26,2296,Call Center,Paquete Triple,Producto incorrecto,Pendiente,73,12.18,10
+744,2026-03-25,2561,Web,Telefonía,Producto incorrecto,En proceso,13,53.02,9
+745,2026-01-25,3921,WhatsApp,Paquete Triple,Producto defectuoso,Resuelto,61,22.53,5
+746,2026-04-25,2261,Web,Internet,Producto defectuoso,Pendiente,44,65.07,10
+747,2026-03-29,3013,App,Telefonía,Error de facturación,Resuelto,21,170.53,10
+748,2026-01-21,3614,App,Internet,Entrega tardía,En proceso,93,160.32,1
+749,2026-02-08,3620,Web,TV,Problema técnico,Pendiente,14,192.38,3
+750,2026-03-10,4191,App,Internet,Cancelación de servicio,En proceso,50,123.92,8
+751,2026-02-14,1712,Oficina,Móvil,Problema técnico,Pendiente,71,148.14,9
+752,2026-02-18,2721,Call Center,Internet,Entrega tardía,Pendiente,18,187.3,0
+753,2026-02-17,3783,WhatsApp,Internet,Error de facturación,Resuelto,20,195.97,4
+754,2026-03-27,1342,Call Center,TV,Producto defectuoso,En proceso,42,89.27,6
+755,2026-03-04,2367,WhatsApp,Internet,Producto defectuoso,Resuelto,14,106.06,1
+756,2026-01-17,3183,Call Center,Telefonía,Problema técnico,En proceso,27,45.7,1
+757,2026-04-05,2319,Call Center,Telefonía,Cancelación de servicio,Pendiente,88,138.0,4
+758,2026-02-23,1199,Web,Móvil,Problema técnico,Pendiente,70,106.01,2
+759,2026-03-07,1984,Call Center,TV,Error de facturación,Resuelto,100,131.45,6
+760,2026-04-10,4463,App,TV,Producto defectuoso,Resuelto,6,198.25,2
+761,2026-01-01,3393,Call Center,Paquete Triple,Error de facturación,Pendiente,54,3.69,1
+762,2026-03-25,4612,Web,Paquete Triple,Producto defectuoso,Pendiente,66,109.05,3
+763,2026-05-01,4357,Call Center,Móvil,Entrega tardía,En proceso,6,67.58,5
+764,2026-04-14,3167,Call Center,TV,Entrega tardía,Resuelto,105,120.56,9
+765,2026-03-10,1342,Oficina,Paquete Triple,Error de facturación,Pendiente,43,19.99,10
+766,2026-03-01,4878,Oficina,Telefonía,Entrega tardía,En proceso,105,94.69,9
+767,2026-01-08,1431,App,Telefonía,Entrega tardía,Pendiente,103,68.02,2
+768,2026-01-08,2925,WhatsApp,Telefonía,Cancelación de servicio,En proceso,8,146.24,6
+769,2026-01-25,1884,Oficina,Paquete Triple,Producto defectuoso,Pendiente,75,169.88,1
+770,2026-02-02,2212,Web,Internet,Cancelación de servicio,En proceso,72,182.94,10
+771,2026-04-07,3535,Oficina,Telefonía,Producto defectuoso,Resuelto,107,169.85,8
+772,2026-03-05,2618,App,TV,Producto incorrecto,En proceso,29,62.44,6
+773,2026-03-26,3328,App,Paquete Triple,Entrega tardía,Pendiente,21,195.63,9
+774,2026-01-02,1498,Web,Telefonía,Producto defectuoso,Pendiente,31,167.25,1
+775,2026-02-27,2525,WhatsApp,Telefonía,Cancelación de servicio,Pendiente,27,197.34,6
+776,2026-04-25,4676,Oficina,Internet,Problema técnico,En proceso,63,162.54,1
+777,2026-02-09,2370,Call Center,TV,Cancelación de servicio,Resuelto,11,101.93,10
+778,2026-01-07,1231,Oficina,TV,Cancelación de servicio,Resuelto,81,18.08,10
+779,2026-01-19,3201,Web,TV,Problema técnico,Resuelto,100,37.67,10
+780,2026-01-17,1659,Oficina,Paquete Triple,Error de facturación,Resuelto,14,94.11,5
+781,2026-02-23,2917,Oficina,Móvil,Entrega tardía,En proceso,109,7.02,5
+782,2026-02-12,1921,Web,Telefonía,Error de facturación,Pendiente,86,88.26,4
+783,2026-03-22,3503,Oficina,Paquete Triple,Error de facturación,En proceso,111,188.77,9
+784,2026-02-12,2086,Call Center,Telefonía,Entrega tardía,En proceso,20,151.55,9
+785,2026-02-20,2741,WhatsApp,Internet,Problema técnico,En proceso,71,64.41,5
+786,2026-01-25,1627,WhatsApp,Internet,Producto incorrecto,En proceso,22,11.41,3
+787,2026-01-11,2624,WhatsApp,TV,Cancelación de servicio,En proceso,93,59.66,6
+788,2026-04-21,3050,Oficina,Móvil,Entrega tardía,Pendiente,23,162.13,9
+789,2026-01-27,2052,Oficina,Telefonía,Producto defectuoso,Pendiente,22,29.4,4
+790,2026-01-17,2874,WhatsApp,Móvil,Cancelación de servicio,Pendiente,28,88.66,8
+791,2026-03-02,2660,Web,Móvil,Problema técnico,Pendiente,14,19.83,3
+792,2026-03-11,1171,Call Center,Móvil,Problema técnico,Resuelto,104,82.65,6
+793,2026-02-06,3074,App,Internet,Cancelación de servicio,En proceso,19,119.31,3
+794,2026-02-16,4208,Web,Internet,Producto incorrecto,En proceso,70,0.54,3
+795,2026-02-05,3250,Oficina,Telefonía,Producto defectuoso,En proceso,114,92.71,8
+796,2026-02-28,3237,Oficina,Telefonía,Cancelación de servicio,Resuelto,29,19.21,10
+797,2026-04-29,4812,WhatsApp,Móvil,Error de facturación,Resuelto,88,190.87,8
+798,2026-04-25,1646,Web,TV,Entrega tardía,En proceso,115,190.51,8
+799,2026-01-29,3045,App,TV,Producto incorrecto,En proceso,76,161.29,1
+800,2026-04-28,1752,App,Paquete Triple,Producto incorrecto,En proceso,61,95.04,6
+801,2026-02-18,2376,Call Center,Paquete Triple,Producto defectuoso,Resuelto,5,182.29,4
+802,2026-04-17,4624,WhatsApp,TV,Problema técnico,Resuelto,23,38.36,5
+803,2026-01-13,1921,Call Center,Paquete Triple,Entrega tardía,Resuelto,49,28.97,5
+804,2026-02-19,1446,WhatsApp,TV,Producto defectuoso,Resuelto,63,164.36,9
+805,2026-03-16,4625,Call Center,Paquete Triple,Producto defectuoso,Resuelto,93,47.71,4
+806,2026-01-14,2687,Oficina,Móvil,Producto incorrecto,Pendiente,8,182.01,9
+807,2026-02-08,2099,WhatsApp,Internet,Producto incorrecto,Resuelto,12,149.76,6
+808,2026-02-22,1956,WhatsApp,Móvil,Producto incorrecto,Pendiente,120,112.69,0
+809,2026-04-08,2812,App,Móvil,Entrega tardía,En proceso,100,97.81,4
+810,2026-01-06,3256,App,Internet,Cancelación de servicio,Pendiente,67,13.93,3
+811,2026-02-13,1827,Web,Internet,Cancelación de servicio,En proceso,91,107.21,3
+812,2026-03-05,1487,WhatsApp,TV,Error de facturación,Resuelto,89,61.11,10
+813,2026-03-18,1834,Web,TV,Error de facturación,Pendiente,80,161.66,10
+814,2026-05-01,1285,Call Center,Telefonía,Producto incorrecto,Resuelto,89,46.26,10
+815,2026-04-24,2134,Oficina,Paquete Triple,Entrega tardía,Resuelto,26,149.47,5
+816,2026-04-06,1945,WhatsApp,Telefonía,Problema técnico,En proceso,67,106.4,9
+817,2026-02-23,4785,App,Telefonía,Producto incorrecto,En proceso,60,110.84,9
+818,2026-04-14,2785,Web,Telefonía,Problema técnico,Resuelto,86,120.44,4
+819,2026-01-01,1583,Web,TV,Cancelación de servicio,Resuelto,34,18.11,0
+820,2026-03-05,4605,App,Telefonía,Problema técnico,Resuelto,114,99.75,9
+821,2026-02-20,4213,App,Paquete Triple,Producto incorrecto,En proceso,105,49.22,8
+822,2026-02-12,3376,Web,Telefonía,Cancelación de servicio,Resuelto,66,191.52,5
+823,2026-02-28,3214,WhatsApp,TV,Problema técnico,Resuelto,99,86.57,7
+824,2026-03-08,1536,Call Center,Paquete Triple,Producto incorrecto,Pendiente,71,145.72,3
+825,2026-02-16,2663,App,Telefonía,Error de facturación,Pendiente,40,14.58,8
+826,2026-02-05,3125,Call Center,Paquete Triple,Entrega tardía,Resuelto,6,44.04,2
+827,2026-04-14,1151,WhatsApp,Telefonía,Cancelación de servicio,En proceso,24,3.48,9
+828,2026-01-04,4812,Call Center,Internet,Producto defectuoso,Resuelto,32,158.52,4
+829,2026-04-01,3410,Call Center,Móvil,Problema técnico,Resuelto,106,196.11,1
+830,2026-01-06,2294,Call Center,Internet,Producto incorrecto,En proceso,86,60.29,8
+831,2026-01-26,1895,Call Center,Telefonía,Error de facturación,Resuelto,77,93.79,0
+832,2026-04-22,3700,WhatsApp,TV,Entrega tardía,Resuelto,33,162.6,0
+833,2026-04-22,3235,Oficina,TV,Entrega tardía,Pendiente,64,48.09,6
+834,2026-04-22,4830,Web,Paquete Triple,Cancelación de servicio,Pendiente,17,199.71,3
+835,2026-04-27,1994,Oficina,Telefonía,Producto incorrecto,Pendiente,59,21.41,4
+836,2026-04-03,4505,WhatsApp,Paquete Triple,Problema técnico,Pendiente,3,160.61,8
+837,2026-01-28,1462,Web,Internet,Error de facturación,Resuelto,78,54.73,5
+838,2026-02-07,1838,Oficina,TV,Error de facturación,En proceso,93,80.84,8
+839,2026-03-03,1396,WhatsApp,Telefonía,Entrega tardía,En proceso,98,68.36,5
+840,2026-03-11,1716,Call Center,Internet,Cancelación de servicio,Pendiente,34,52.57,8
+841,2026-03-14,3478,Oficina,Internet,Producto incorrecto,En proceso,14,12.12,9
+842,2026-02-01,4710,Web,TV,Error de facturación,En proceso,86,42.77,1
+843,2026-02-03,3924,Web,Internet,Entrega tardía,En proceso,73,155.54,9
+844,2026-03-07,1043,Call Center,Paquete Triple,Entrega tardía,En proceso,36,17.72,7
+845,2026-04-28,2737,Web,Paquete Triple,Entrega tardía,Resuelto,116,159.07,6
+846,2026-02-10,4877,Oficina,Telefonía,Error de facturación,Resuelto,76,9.39,7
+847,2026-04-29,2328,Web,Internet,Entrega tardía,Pendiente,1,56.58,6
+848,2026-03-15,4288,Call Center,Telefonía,Problema técnico,Resuelto,29,126.57,6
+849,2026-04-28,2301,Call Center,Paquete Triple,Cancelación de servicio,Pendiente,17,36.27,1
+850,2026-02-22,3982,Oficina,Internet,Producto incorrecto,En proceso,107,63.61,7
+851,2026-03-23,3809,WhatsApp,Móvil,Producto defectuoso,Resuelto,57,25.88,1
+852,2026-04-18,4468,Oficina,Internet,Cancelación de servicio,Pendiente,38,158.13,3
+853,2026-04-03,1203,Call Center,Internet,Cancelación de servicio,En proceso,90,162.29,1
+854,2026-01-03,2301,WhatsApp,Telefonía,Error de facturación,Pendiente,44,21.67,3
+855,2026-04-28,2753,Oficina,Telefonía,Producto defectuoso,Pendiente,79,36.74,1
+856,2026-01-31,3346,Oficina,Móvil,Problema técnico,Pendiente,34,155.33,9
+857,2026-03-26,3095,App,Paquete Triple,Error de facturación,Pendiente,18,172.78,2
+858,2026-04-30,2341,WhatsApp,Telefonía,Producto incorrecto,Resuelto,110,116.7,6
+859,2026-02-24,2812,Call Center,Telefonía,Producto defectuoso,En proceso,50,193.69,0
+860,2026-04-11,3268,App,TV,Producto defectuoso,Pendiente,98,149.38,2
+861,2026-02-13,4855,WhatsApp,Móvil,Problema técnico,Resuelto,27,50.3,4
+862,2026-04-09,1426,Oficina,TV,Producto defectuoso,Resuelto,26,143.63,5
+863,2026-02-17,3058,Web,Internet,Entrega tardía,En proceso,59,183.57,2
+864,2026-02-26,1332,Web,Internet,Producto incorrecto,Resuelto,77,83.97,7
+865,2026-03-19,1132,Oficina,TV,Problema técnico,Resuelto,56,35.86,5
+866,2026-01-10,3407,App,Internet,Problema técnico,Resuelto,93,67.58,8
+867,2026-02-19,1730,Oficina,Paquete Triple,Entrega tardía,Pendiente,113,136.14,2
+868,2026-01-03,1003,Oficina,Paquete Triple,Producto defectuoso,En proceso,10,132.9,0
+869,2026-01-03,3024,Web,Paquete Triple,Cancelación de servicio,Pendiente,62,59.36,7
+870,2026-01-05,4807,WhatsApp,Internet,Producto defectuoso,Resuelto,1,104.85,10
+871,2026-01-03,3742,WhatsApp,Telefonía,Problema técnico,Pendiente,91,64.8,1
+872,2026-04-29,4876,Oficina,Telefonía,Producto incorrecto,Resuelto,90,29.16,8
+873,2026-01-16,2061,App,Móvil,Error de facturación,Resuelto,6,78.69,1
+874,2026-02-09,1016,App,Internet,Problema técnico,Pendiente,12,190.83,8
+875,2026-02-18,3745,Call Center,Internet,Problema técnico,En proceso,15,99.84,8
+876,2026-02-11,1636,Call Center,Internet,Producto incorrecto,Resuelto,18,121.68,5
+877,2026-02-02,2085,WhatsApp,TV,Error de facturación,Pendiente,4,24.95,1
+878,2026-05-01,1432,App,Paquete Triple,Cancelación de servicio,Pendiente,44,124.16,10
+879,2026-04-17,4036,Oficina,Internet,Error de facturación,En proceso,26,169.05,7
+880,2026-01-09,4427,WhatsApp,TV,Error de facturación,Resuelto,37,110.84,6
+881,2026-01-01,3425,Web,Móvil,Entrega tardía,Resuelto,84,13.72,10
+882,2026-01-01,2300,App,Paquete Triple,Error de facturación,En proceso,43,138.97,10
+883,2026-03-10,1565,Web,Internet,Producto incorrecto,Resuelto,96,10.18,8
+884,2026-02-16,1940,WhatsApp,Móvil,Producto incorrecto,En proceso,59,90.94,5
+885,2026-04-14,1957,Call Center,Telefonía,Problema técnico,En proceso,84,47.51,9
+886,2026-03-03,4035,App,Internet,Cancelación de servicio,Pendiente,39,176.89,5
+887,2026-04-22,4623,WhatsApp,TV,Problema técnico,Pendiente,61,77.07,4
+888,2026-02-28,2204,App,Telefonía,Problema técnico,En proceso,52,3.68,10
+889,2026-02-02,3141,WhatsApp,Telefonía,Producto incorrecto,En proceso,114,128.97,5
+890,2026-01-18,1178,Web,TV,Problema técnico,Resuelto,21,93.16,3
+891,2026-03-04,3605,WhatsApp,Paquete Triple,Cancelación de servicio,Resuelto,46,123.47,6
+892,2026-04-26,2461,Web,Telefonía,Entrega tardía,Resuelto,39,177.8,6
+893,2026-04-01,4499,WhatsApp,TV,Entrega tardía,Resuelto,7,139.88,10
+894,2026-01-15,4081,Web,TV,Producto defectuoso,Resuelto,22,185.93,9
+895,2026-04-24,2700,Oficina,Paquete Triple,Producto incorrecto,Pendiente,106,70.3,0
+896,2026-03-19,4678,App,Internet,Producto defectuoso,En proceso,5,130.79,4
+897,2026-03-11,2552,Oficina,Paquete Triple,Entrega tardía,Resuelto,25,7.38,8
+898,2026-04-10,2582,Oficina,TV,Producto incorrecto,En proceso,4,90.53,4
+899,2026-04-16,4828,Oficina,Internet,Producto incorrecto,Resuelto,100,46.22,10
+900,2026-03-22,2340,WhatsApp,Internet,Producto defectuoso,Pendiente,113,77.5,6
+901,2026-03-29,1259,App,TV,Error de facturación,Pendiente,68,183.76,3
+902,2026-03-20,3027,WhatsApp,Móvil,Error de facturación,Resuelto,28,110.86,2
+903,2026-02-26,3401,App,TV,Cancelación de servicio,En proceso,84,135.02,6
+904,2026-03-31,2429,Web,TV,Problema técnico,Pendiente,100,75.81,1
+905,2026-03-23,3148,Web,Paquete Triple,Cancelación de servicio,En proceso,89,157.4,2
+906,2026-04-26,1804,Call Center,Telefonía,Cancelación de servicio,Pendiente,67,141.39,10
+907,2026-04-04,3501,App,TV,Cancelación de servicio,En proceso,20,43.01,0
+908,2026-03-03,4180,Call Center,Internet,Producto defectuoso,En proceso,62,198.66,9
+909,2026-02-15,3950,Web,Telefonía,Error de facturación,En proceso,112,173.88,3
+910,2026-04-18,1631,WhatsApp,Móvil,Error de facturación,En proceso,19,92.89,10
+911,2026-01-26,1966,Call Center,TV,Producto defectuoso,Resuelto,86,133.03,1
+912,2026-01-04,1325,WhatsApp,Paquete Triple,Producto incorrecto,Pendiente,54,46.03,8
+913,2026-01-04,3468,App,Paquete Triple,Producto incorrecto,En proceso,110,41.94,2
+914,2026-03-17,3867,Oficina,Telefonía,Producto incorrecto,Pendiente,114,190.4,2
+915,2026-02-28,3800,Oficina,Móvil,Error de facturación,Resuelto,29,94.71,10
+916,2026-01-01,3162,Web,Móvil,Producto defectuoso,En proceso,65,103.04,10
+917,2026-02-11,3816,App,Móvil,Producto defectuoso,Pendiente,119,1.34,5
+918,2026-01-04,3895,Web,TV,Cancelación de servicio,En proceso,85,80.79,0
+919,2026-01-24,2471,Call Center,Telefonía,Producto incorrecto,En proceso,56,142.45,9
+920,2026-01-02,1605,App,TV,Entrega tardía,Resuelto,50,13.89,6
+921,2026-04-27,3911,App,Telefonía,Producto defectuoso,Resuelto,19,63.43,7
+922,2026-03-13,3458,App,Telefonía,Error de facturación,Resuelto,56,44.53,3
+923,2026-04-01,1528,Oficina,TV,Entrega tardía,Pendiente,7,103.13,5
+924,2026-02-07,2134,App,Móvil,Error de facturación,En proceso,34,9.62,8
+925,2026-04-01,4162,Oficina,Móvil,Producto defectuoso,Resuelto,37,80.01,6
+926,2026-02-14,2442,Oficina,Móvil,Producto defectuoso,Resuelto,52,190.36,3
+927,2026-03-05,4884,Call Center,Paquete Triple,Problema técnico,En proceso,24,68.35,8
+928,2026-03-29,4958,App,Telefonía,Producto incorrecto,Resuelto,17,0.94,8
+929,2026-04-04,3499,WhatsApp,Telefonía,Producto incorrecto,En proceso,7,97.89,7
+930,2026-03-30,3551,App,Móvil,Problema técnico,Pendiente,40,85.21,0
+931,2026-04-10,3352,App,Telefonía,Error de facturación,En proceso,42,18.34,6
+932,2026-03-13,3265,Oficina,Paquete Triple,Entrega tardía,Resuelto,3,7.21,4
+933,2026-02-03,2933,Web,Telefonía,Problema técnico,Pendiente,57,76.03,8
+934,2026-01-24,4337,App,TV,Error de facturación,Pendiente,23,34.66,4
+935,2026-02-22,2878,App,Paquete Triple,Entrega tardía,Resuelto,45,3.12,5
+936,2026-01-13,2703,WhatsApp,Internet,Cancelación de servicio,Pendiente,5,133.13,10
+937,2026-03-20,4886,Call Center,Paquete Triple,Producto incorrecto,En proceso,39,94.74,4
+938,2026-04-20,2407,WhatsApp,Telefonía,Problema técnico,Resuelto,79,77.46,10
+939,2026-03-13,3946,WhatsApp,Móvil,Problema técnico,Pendiente,45,109.52,4
+940,2026-01-08,3066,Call Center,Internet,Error de facturación,Resuelto,66,30.87,2
+941,2026-01-23,4165,Oficina,TV,Error de facturación,Resuelto,99,193.03,3
+942,2026-03-05,4506,Web,Paquete Triple,Entrega tardía,Resuelto,51,12.67,2
+943,2026-03-16,1436,App,Internet,Entrega tardía,En proceso,73,28.65,3
+944,2026-03-01,1956,Call Center,Internet,Entrega tardía,Pendiente,103,163.35,3
+945,2026-04-22,4063,WhatsApp,Telefonía,Problema técnico,En proceso,75,79.85,1
+946,2026-04-21,4334,App,Internet,Problema técnico,Pendiente,19,197.69,10
+947,2026-01-02,4900,WhatsApp,Móvil,Problema técnico,Resuelto,36,143.22,6
+948,2026-04-20,1338,WhatsApp,Telefonía,Problema técnico,En proceso,100,133.76,1
+949,2026-04-19,1013,Web,Paquete Triple,Error de facturación,Resuelto,24,129.81,6
+950,2026-04-30,2309,App,Paquete Triple,Producto incorrecto,En proceso,9,43.52,9
+951,2026-03-07,2436,App,Paquete Triple,Producto incorrecto,Pendiente,87,84.2,6
+952,2026-02-12,1284,Call Center,Móvil,Cancelación de servicio,Resuelto,100,183.31,1
+953,2026-02-24,4032,WhatsApp,Paquete Triple,Problema técnico,En proceso,10,90.71,8
+954,2026-01-23,1723,Web,Telefonía,Error de facturación,Pendiente,11,90.74,6
+955,2026-04-12,1910,Web,Paquete Triple,Cancelación de servicio,Resuelto,76,89.88,4
+956,2026-03-10,4129,Web,Paquete Triple,Error de facturación,En proceso,8,48.12,10
+957,2026-02-27,4503,Web,TV,Error de facturación,En proceso,57,143.67,2
+958,2026-02-27,3710,Oficina,Paquete Triple,Problema técnico,Pendiente,2,70.48,8
+959,2026-01-19,3941,Oficina,Telefonía,Problema técnico,En proceso,55,89.59,3
+960,2026-03-26,4674,Call Center,Paquete Triple,Producto incorrecto,Pendiente,118,96.85,1
+961,2026-04-17,3255,Oficina,Paquete Triple,Error de facturación,En proceso,86,162.23,2
+962,2026-02-10,1429,Web,Móvil,Producto incorrecto,Resuelto,80,92.81,9
+963,2026-03-26,4058,App,Paquete Triple,Producto defectuoso,Pendiente,87,70.37,10
+964,2026-02-06,4248,Call Center,Telefonía,Problema técnico,Pendiente,111,178.19,9
+965,2026-01-03,3534,Web,Internet,Cancelación de servicio,En proceso,120,171.73,8
+966,2026-04-12,3971,Web,Paquete Triple,Producto incorrecto,En proceso,69,29.17,9
+967,2026-04-13,1041,Web,Telefonía,Producto defectuoso,Pendiente,69,194.73,9
+968,2026-01-28,4867,Web,Paquete Triple,Entrega tardía,Pendiente,100,56.29,4
+969,2026-04-03,4717,Web,TV,Producto defectuoso,Pendiente,100,104.23,1
+970,2026-04-25,2948,WhatsApp,Telefonía,Producto defectuoso,En proceso,91,108.18,3
+971,2026-01-08,1588,Web,Internet,Error de facturación,Pendiente,106,125.8,4
+972,2026-02-28,1162,Oficina,Móvil,Cancelación de servicio,En proceso,35,124.75,10
+973,2026-04-03,3255,Web,Telefonía,Error de facturación,Resuelto,118,96.63,8
+974,2026-04-22,3044,Call Center,TV,Producto defectuoso,Resuelto,1,42.19,5
+975,2026-02-11,3964,Web,Paquete Triple,Error de facturación,En proceso,90,92.96,2
+976,2026-01-16,2344,WhatsApp,TV,Producto incorrecto,En proceso,95,175.96,5
+977,2026-01-17,4124,WhatsApp,TV,Cancelación de servicio,En proceso,112,190.44,0
+978,2026-04-17,4329,Web,TV,Producto incorrecto,En proceso,109,137.59,8
+979,2026-01-09,1991,WhatsApp,TV,Problema técnico,En proceso,83,23.25,8
+980,2026-04-08,1873,WhatsApp,Paquete Triple,Producto incorrecto,En proceso,27,4.24,1
+981,2026-01-17,3281,Call Center,Telefonía,Error de facturación,En proceso,104,199.74,2
+982,2026-03-27,1392,App,Móvil,Producto incorrecto,Pendiente,119,84.88,10
+983,2026-02-09,3496,Oficina,Móvil,Producto incorrecto,Resuelto,92,97.75,4
+984,2026-03-28,1341,Call Center,Móvil,Producto defectuoso,Resuelto,106,57.7,3
+985,2026-02-27,1959,Oficina,Móvil,Entrega tardía,Pendiente,38,173.05,7
+986,2026-04-11,3060,WhatsApp,Telefonía,Problema técnico,Resuelto,13,190.59,2
+987,2026-01-26,2042,Web,Internet,Producto defectuoso,Resuelto,45,92.63,9
+988,2026-01-12,1770,App,Internet,Producto defectuoso,Resuelto,32,144.27,1
+989,2026-01-18,2886,WhatsApp,Telefonía,Problema técnico,En proceso,28,119.87,5
+990,2026-02-08,3961,Oficina,Telefonía,Producto defectuoso,Resuelto,20,55.94,5
+991,2026-01-29,2736,Oficina,Telefonía,Entrega tardía,Resuelto,66,92.21,10
+992,2026-04-20,2960,Web,Móvil,Entrega tardía,Pendiente,63,53.94,7
+993,2026-03-04,1994,WhatsApp,Telefonía,Producto defectuoso,Pendiente,50,8.41,1
+994,2026-01-24,3487,Call Center,Paquete Triple,Producto defectuoso,En proceso,3,46.21,1
+995,2026-04-23,2616,App,Paquete Triple,Entrega tardía,Pendiente,95,180.66,6
+996,2026-02-02,3207,WhatsApp,Paquete Triple,Problema técnico,En proceso,117,157.5,0
+997,2026-03-15,3532,WhatsApp,TV,Problema técnico,En proceso,38,168.18,7
+998,2026-04-11,1294,Web,Móvil,Cancelación de servicio,Pendiente,8,80.13,9
+999,2026-02-24,4983,WhatsApp,Telefonía,Entrega tardía,Resuelto,66,48.45,1
+1000,2026-04-16,2084,WhatsApp,Internet,Cancelación de servicio,Pendiente,4,76.86,4
