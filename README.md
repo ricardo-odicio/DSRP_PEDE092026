@@ -159,6 +159,7 @@ Total Reclamos = SUM(fact_reclamos[cantidad_reclamos])
 NPS Promedio = AVERAGE(fact_reclamos[nps])
 NPS Score = ([% Promotores] - [% Detractores])
 Tendencia Reclamos = -- (regresión lineal aplicada sobre fechas)
+```
 
 ❓ Preguntas de negocio
 ¿Qué canal genera más reclamos?
