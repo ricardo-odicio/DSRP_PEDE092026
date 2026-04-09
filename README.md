@@ -45,9 +45,7 @@ La fuente se registró como **tabla en Databricks**:
 
 ## 🏗️ Arquitectura
 
-<img width="1293" height="844" alt="image" src="https://github.com/user-attachments/assets/72d93047-1a87-401f-922d-3ecb23eb183b" />
-
-
+![Power BI Dashboard](docs/Arquitectura_del_pipeline.png)
 ---
 
 ## 🥉 Capa Raw
@@ -150,7 +148,9 @@ NPS Score = ([% Promotores] - [% Detractores])
 Tendencia Reclamos = -- (regresión lineal aplicada sobre fechas)
 ```
 
+## 📊 Dashboard en Power BI
 
+![Dashboard](docs/powerbi_ejemplo.png)
 
 ❓ Preguntas de negocio
 - ¿Qué canal genera más reclamos?
@@ -169,9 +169,7 @@ Tendencia Reclamos = -- (regresión lineal aplicada sobre fechas)
 
 📁 Estructura del repositorio
 
-<img width="1149" height="901" alt="image" src="https://github.com/user-attachments/assets/1ec0b510-a383-4b32-851a-e3ea0cc06ea3" />
-
-
+![Power BI Dashboard](docs/Estructura_del_repositorio.png)
 
 📌 Conclusiones
 - La arquitectura medallón permite estructurar datos de forma progresiva y controlada
